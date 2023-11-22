@@ -2,7 +2,6 @@ import subprocess, os
 
 # Define the file name you want to execute
 current_directory = os.getcwd()
-print(current_directory)
 
 # Goes back 1 directory to our AI (main.py)
 split_path = current_directory.split(os.path.sep)
@@ -14,22 +13,23 @@ wins["Player_1_Black"] = 0
 wins["Player_2_White"] = 0
 wins["Ties"] = 0
 
+# CHANGE THIS VALUE TO HOW MANY GAMES WILL BE RUN
+TOTAL_GAMES = 20
 
 
-# Run the file 100 times
-for i in range(20):
-    print("Game #", i + 1, end = ": ")
+# Run the simulations
+for i in range(TOTAL_GAMES):
+    print("Game ", end = "")
+    print(i + 1, "of", TOTAL_GAMES, end = ": ")
+
+    # Runs against "RandomAI.py"
     result = subprocess.run(['python3', os.path.join(current_directory, "AI_Runner.py"), "8", "8", "3", "l", os.path.join(new_directory, "src", "checkers-python", "main.py"), os.path.join(current_directory, "Sample_AIs", "Random_AI", "main.py")], stdout=subprocess.PIPE)
    
     # Get output from original AI code (the code prints out which player wins).
     console_output = str(result.stdout)
-    # print("THIS IS STDOUT", str(console_output))
-
 
     # Fix formatting for the original AI code output by removing symbols.
     output_search = console_output.strip("b'\\n")
-    # print(output_search, "IS OUTPUT SEARCH")
-
 
     # Check which player won and incremenet it in the "wins" dictionary
     if "1" in output_search:
@@ -41,8 +41,13 @@ for i in range(20):
         wins["Player_2_White"] += 1
 
     elif "Tie" in output_search:
-        print("Ties")
+        print("Tie")
         wins["Ties"] += 1
 
     print()
 
+
+print("---Total Wins---")
+for i in wins:
+    print(i, end = ": ")
+    print(wins[i])
