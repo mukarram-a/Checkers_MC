@@ -6,6 +6,35 @@ import sys
 #The following part should be completed by students.
 #Students can modify anything except the class name and exisiting functions and varibles.
 
+class Node():
+
+    def __init__(self, parent, move):
+        self.score = 0              # (number of black pieces) - (number of white pieces)
+        self.move = move            # Board position that the piece moves to
+        self.parent = parent        # Node object that references the parent node
+        self.children = set()       # Contains Node objects for child nodes
+
+
+    def removeSubTree(self, parent):
+        '''
+        Removes sub trees from Python memory to prevent MemoryError
+        
+        '''
+
+        if parent.children == set():
+            # If node has no children, delete it
+            del parent
+            return
+
+        for nodes in self.children:
+            # else, recursively check all nodes to see if they can be deleted
+            self.removeSubTree(nodes)
+        
+        return
+            
+
+
+
 
 class StudentAI():
 
@@ -161,8 +190,8 @@ class StudentAI():
     
     def get_move(self,move):
         #print("get_move")
+        
         if len(move) != 0:
-            
             self.board.make_move(move, self.opponent[self.color])
         else:
             self.color = 1
