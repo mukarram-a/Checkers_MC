@@ -78,6 +78,25 @@ class Node():
             curr_node.parent.wins += self.wins
             curr_node.parent.totalSimulations += self.totalSimulations
             curr_node = self.parent
+
+    def simulate(self):
+        
+        
+        win = self.board.is_win(self.color)
+        moves = self.board.get_all_possible_moves(self.color)
+
+        if win == 0 and moves == []: #condition where there is a tie.
+            return 0
+        elif win == self.color:
+            return 1
+        elif win == self.opponent[self.color]:  # Condition where enemy wins
+            return 0
+        
+        
+        index = randint(0,len(moves)-1)
+        inner_index =  randint(0,len(moves[index])-1)
+        move = moves[index][inner_index]
+        self.board.make_move(move,self.color)
             
 
 
