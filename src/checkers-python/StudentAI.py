@@ -2,6 +2,7 @@ from random import randint
 from BoardClasses import Move
 from BoardClasses import Board
 import sys, math, logging
+from copy import deepcopy
 
 #The following part should be completed by students.
 #Students can modify anything except the class name and exisiting functions and varibles.
@@ -105,11 +106,12 @@ class Node():
         moves = self.board.get_all_possible_moves(self.color)
         logging.debug(moves)
         for piece in moves: 
+            #logging.debug(piece)
             for move in piece:
                 #logging.debug("self.color is ", self.color)
-                #logging.debug("move is " + move)
+                logging.debug(move)
                 self.board.make_move(move, self.color)
-                child = Node(self, move, self.board, self.color)
+                child = Node(self, move, self.board, self.opponent[self.color])
                 self.children.append(child)
                 self.board.undo()
         self.isexpanded = 1
@@ -125,29 +127,39 @@ class Node():
         
         '''
         
-        color = self.color 
+        color = deepcopy(self.color)
         self.issimulated = 1
+        count = 0
         while True: 
-            win = self.board.is_win(self.color)
-            moves = self.board.get_all_possible_moves(self.color)
+            win = self.board.is_win(color)
+            moves = self.board.get_all_possible_moves(color)
 
             if win == 0 and moves == []: #condition where there is a tie.
-                return 0
+                self.totalSimulations += 1
+                self.wins += 1
+                return
             elif win == self.color:
-                return 1
+                self.totalSimulations += 1
+                self.wins += 1
+                return
             elif win == self.opponent[self.color]:  # Condition where enemy wins
-                return -1
+                self.totalSimulations += 1
+                return 
             
             
             index = randint(0,len(moves)-1)
             inner_index =  randint(0,len(moves[index])-1)
             move = moves[index][inner_index]
-            self.board.make_move(move,self.color)
+            self.board.make_move(move,color)
+            count += 1
             
             if color == 1:
                 color = 2
             else:
                 color = 1
+        
+        for i in count: 
+            self.board.undo()
 
 
 
@@ -214,7 +226,10 @@ class StudentAI():
         root_node = Node(None, move, self.board, self.color)
 
         curr_node = root_node
+        
+        logging.debug(curr_node.color)
         curr_node.simulate()
+        logging.debug(curr_node.color)
 
         while numSimulations > 0: 
             logging.debug(numSimulations)
