@@ -99,17 +99,17 @@ class Node():
         while curr_node.parent != None:
             curr_node.parent.wins += self.wins
             curr_node.parent.totalSimulations += self.totalSimulations
-            curr_node = self.parent
+            curr_node = curr_node.parent
 
 
     def expand(self):
         moves = self.board.get_all_possible_moves(self.color)
-        logging.debug(moves)
+        logging.debug("TOTAL MOVES" + str(moves))
         for piece in moves: 
             #logging.debug(piece)
             for move in piece:
-                #logging.debug("self.color is ", self.color)
-                logging.debug(move)
+                logging.debug("self.color is " + str(self.color))
+                # logging.debug(move)
                 self.board.make_move(move, self.color)
                 child = Node(self, move, self.board, self.opponent[self.color])
                 self.children.append(child)
@@ -131,20 +131,21 @@ class Node():
         self.issimulated = 1
         count = 0
         while True: 
+            logging.debug("Stuck in loop")
             win = self.board.is_win(color)
             moves = self.board.get_all_possible_moves(color)
 
             if win == 0 and moves == []: #condition where there is a tie.
                 self.totalSimulations += 1
                 self.wins += 1
-                return
+                break
             elif win == self.color:
                 self.totalSimulations += 1
                 self.wins += 1
-                return
+                break
             elif win == self.opponent[self.color]:  # Condition where enemy wins
                 self.totalSimulations += 1
-                return 
+                break 
             
             
             index = randint(0,len(moves)-1)
@@ -158,8 +159,13 @@ class Node():
             else:
                 color = 1
         
-        for i in count: 
+        logging.debug("Loop broken")
+        for i in range(count): 
+            logging.debug("Undo")
             self.board.undo()
+
+        logging.debug("Undo done")
+        
 
 
 
@@ -223,16 +229,16 @@ class StudentAI():
         
 
         numSimulations = 5
-        root_node = Node(None, move, self.board, self.color)
+        root_node = Node(None, move, deepcopy(self.board), self.color)
 
         curr_node = root_node
         
-        logging.debug(curr_node.color)
+        # logging.debug(curr_node.color)
         curr_node.simulate()
-        logging.debug(curr_node.color)
+        # logging.debug(curr_node.color)
 
         while numSimulations > 0: 
-            logging.debug(numSimulations)
+            logging.debug("numSimulations = " + str(numSimulations))
             if curr_node.isexpanded == 0: 
                 logging.debug("Inside if statement")
                 curr_node.expand()
@@ -251,5 +257,7 @@ class StudentAI():
                     curr_node = curr_node.findLargestChild()
 
         bestchild = root_node.findLargestChild()
-        self.board.make_move(move,self.color)
+        self.board.make_move(bestchild.move,self.color)
+        logging.debug("Sending move: " + str(bestchild.move))
+
         return bestchild.move
