@@ -1,7 +1,7 @@
 from random import randint
 from BoardClasses import Move
 from BoardClasses import Board
-import sys
+import sys, math
 
 #The following part should be completed by students.
 #Students can modify anything except the class name and exisiting functions and varibles.
@@ -68,9 +68,9 @@ class Node():
         if root.children != set():
             future_move = max(root.children)
 
-        
 
-
+    def MCT(self):
+        return (self.wins/self.totalSimulations) + self.exploration * math.sqrt((math.log(self.parent.totalSimulations)/ self.totalSimulations))
 
 
 
