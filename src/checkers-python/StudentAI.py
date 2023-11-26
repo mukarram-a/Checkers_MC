@@ -82,6 +82,22 @@ class Node():
 
 
 
+    def findLargestChild(self, parent):
+        '''
+        Takes a parent node as a parameter and returns the child Node that has the largest UCT value
+        
+        '''
+
+        max_child = None
+        max_score = 0
+
+        # Get the UTC score for all children
+        for child in parent.children:
+            if child.UCT() > max_score:
+                max_child = child
+                max_score = child.UCT()
+
+        return max_child
 
 
 
