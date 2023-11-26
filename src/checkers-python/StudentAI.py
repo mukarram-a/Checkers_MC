@@ -11,13 +11,11 @@ root = None
 
 class Node():
 
-    def __init__(self, parent, move):
-        self.score = 0              # (number of black pieces) - (number of white pieces)
-        
-        self.wins = 0 
-        self.totalSimulations = 0 
+    def __init__(self, parent, move, board):
+        self.visited = 0            # 0 if the node has not been through the simulation, 1 if it has been through the simulation
+        self.wins = 0               # Tracks the number of wins from the simulation
+        self.totalSimulations = 0   # Tracks the total simulations run on a node
         self.exploration = EXPLORATION
-        
         self.move = move            # Board position that the piece moves to
         self.parent = parent        # Node object that references the parent node
         self.children = set()       # Contains Node objects for child nodes
@@ -41,8 +39,8 @@ class Node():
         '''
 
         if parent is do_not_remove:
+            # If the current node should not be removed, skip it.
             return
-
 
         if parent.children == set():
             # If node has no children, delete it
@@ -51,7 +49,7 @@ class Node():
 
         for nodes in self.children:
             # else, recursively check all nodes to see if they can be deleted
-            self.removeSubTree(nodes)
+            self.removeSubTree(nodes, do_not_remove)
         
         return
             
@@ -63,6 +61,8 @@ class Node():
         
         '''
 
+        #TODO
+
         # If the root node has children, get the highest-value 
         # child to determine the next move
         if root.children != set():
@@ -70,16 +70,34 @@ class Node():
 
 
     def UCT(self):
+        '''
+        Calculates and returns the UCT value for a node
+        
+        '''
         return (self.wins/self.totalSimulations) + self.exploration * math.sqrt((math.log(self.parent.totalSimulations)/ self.totalSimulations))
 
     def backpropogate(self):
+        '''
+        Starts at a child node and updates "wins" and "totalSimulations" 
+        values for all parent nodes as it reaches the root.
+        
+        '''
         curr_node = self
         while curr_node.parent != None:
             curr_node.parent.wins += self.wins
             curr_node.parent.totalSimulations += self.totalSimulations
             curr_node = self.parent
 
+
     def simulate(self):
+        '''
+        Simulates a game to an end-state (win, lose, or tie) based on random probability
+
+        Returns 0 for Loss and Tie
+        Returns 1 for Win 
+        
+        '''
+        
         color = self.color 
         while True: 
             win = self.board.is_win(self.color)
@@ -102,7 +120,6 @@ class Node():
                 color = 2
             else:
                 color = 1
-            
 
 
 
@@ -114,6 +131,9 @@ class Node():
 
         max_child = None
         max_score = 0
+
+        if parent.children == set():
+            return None
 
         # Get the UTC score for all children
         for child in parent.children:
