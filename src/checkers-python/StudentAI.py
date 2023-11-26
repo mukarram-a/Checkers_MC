@@ -1,10 +1,14 @@
 from random import randint
 from BoardClasses import Move
 from BoardClasses import Board
-import sys, math
+import sys, math, logging
 
 #The following part should be completed by students.
 #Students can modify anything except the class name and exisiting functions and varibles.
+
+logging.basicConfig(level = logging.DEBUG, filename = "log.log", filemode = "w",
+                    format = "%(asctime)s - %(levelname)s - %(lineno)d - %(message)s",
+                    datefmt="%d-%b-%y %H:%M:%S")
 
 EXPLORATION = 3
 root = None
@@ -22,6 +26,7 @@ class Node():
         self.children = list()       # Contains Node objects for child nodes
         self.color = color 
         self.board = board
+        self.opponent = {1:2,2:1}
 
 
 
@@ -95,11 +100,15 @@ class Node():
 
     def expand(self):
         moves = self.board.get_all_possible_moves(self.color)
-        for move in moves: 
-            self.board.make_move(move, self.color)
-            child = Node(move, self.board, self.color)
-            self.children.append(child)
-            self.board.undo()
+        logging.debug(moves)
+        for piece in moves: 
+            for move in piece:
+                logging.debug("self.color is ", self.color)
+                logging.debug("move is ", move)
+                self.board.make_move(move, self.color)
+                child = Node(self, move, self.board, self.color)
+                self.children.append(child)
+                self.board.undo()
         self.isexpanded = 1
     
 
@@ -202,18 +211,26 @@ class StudentAI():
         root_node = Node(None, move, self.board, self.color)
 
         curr_node = root_node
+        curr_node.simulate()
 
         while numSimulations > 0: 
+            logging.debug(numSimulations)
             if curr_node.isexpanded == 0: 
+                logging.debug("Inside if statement")
                 curr_node.expand()
-                for child in curr_node.children(): 
+                for child in curr_node.children: 
                     child.simulate()
                     child.backpropogate() 
+                    logging.debug("Child is expanded is " + str(child.isexpanded))
                 numSimulations -= 1
                 curr_node = root_node
             else:
+                logging.debug("Inside else statement")
+                logging.debug("curr_node isexpanded: " + str(curr_node.isexpanded))
+                logging.debug("curr_node issimulated: " + str(curr_node.issimulated))
                 if curr_node.issimulated == 1 and curr_node.children != []: 
-                    curr_node = root_node.findLargestChild()
+                    logging.debug("finding the largest child")
+                    curr_node = curr_node.findLargestChild()
 
         bestchild = root_node.findLargestChild()
         self.board.make_move(move,self.color)

@@ -329,7 +329,7 @@ class Board:
         """
         ########## DOES NOT PRINT # DOES NOT PRINT # DOES NOT PRINT # DOES NOT PRINT # DOES NOT PRINT # DOES NOT PRINT # DOES NOT PRINT # DOES NOT PRINT # ############################
         # print("NOT PRINTING (main.py)")
-        return
+        #return
         ########## DOES NOT PRINT # DOES NOT PRINT # DOES NOT PRINT # DOES NOT PRINT # DOES NOT PRINT # DOES NOT PRINT # DOES NOT PRINT # DOES NOT PRINT # ############################
 
         print("   ",end="",file=fh)
