@@ -69,7 +69,7 @@ class Node():
             future_move = max(root.children)
 
 
-    def MCT(self):
+    def UCT(self):
         return (self.wins/self.totalSimulations) + self.exploration * math.sqrt((math.log(self.parent.totalSimulations)/ self.totalSimulations))
 
 
