@@ -11,7 +11,7 @@ root = None
 
 class Node():
 
-    def __init__(self, parent, move, board):
+    def __init__(self, parent, move, board, color):
         self.visited = 0            # 0 if the node has not been through the simulation, 1 if it has been through the simulation
         self.wins = 0               # Tracks the number of wins from the simulation
         self.totalSimulations = 0   # Tracks the total simulations run on a node
@@ -19,6 +19,8 @@ class Node():
         self.move = move            # Board position that the piece moves to
         self.parent = parent        # Node object that references the parent node
         self.children = set()       # Contains Node objects for child nodes
+        self.color = color 
+        self.board = board
 
 
     def removeSubTree(self, parent, do_not_remove):
