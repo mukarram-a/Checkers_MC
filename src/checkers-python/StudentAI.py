@@ -12,15 +12,17 @@ root = None
 class Node():
 
     def __init__(self, parent, move, board, color):
-        self.visited = 0            # 0 if the node has not been through the simulation, 1 if it has been through the simulation
+        self.isexpanded = 0            # 0 if the node has not been through the simulation, 1 if it has been through the simulation
+        self.issimulated = 0
         self.wins = 0               # Tracks the number of wins from the simulation
         self.totalSimulations = 0   # Tracks the total simulations run on a node
         self.exploration = EXPLORATION
         self.move = move            # Board position that the piece moves to
         self.parent = parent        # Node object that references the parent node
-        self.children = set()       # Contains Node objects for child nodes
+        self.children = list()       # Contains Node objects for child nodes
         self.color = color 
         self.board = board
+
 
 
     def removeSubTree(self, parent, do_not_remove):
@@ -91,6 +93,17 @@ class Node():
             curr_node = self.parent
 
 
+    def expand(self):
+        moves = self.board.get_all_possible_moves(self.color)
+        for move in moves: 
+            self.board.make_move(move, self.color)
+            child = Node(move, self.board, self.color)
+            self.children.append(child)
+            self.board.undo()
+        self.isexpanded = 1
+    
+
+    
     def simulate(self):
         '''
         Simulates a game to an end-state (win, lose, or tie) based on random probability
@@ -101,6 +114,7 @@ class Node():
         '''
         
         color = self.color 
+        self.issimulated = 1
         while True: 
             win = self.board.is_win(self.color)
             moves = self.board.get_all_possible_moves(self.color)
@@ -110,7 +124,7 @@ class Node():
             elif win == self.color:
                 return 1
             elif win == self.opponent[self.color]:  # Condition where enemy wins
-                return 0
+                return -1
             
             
             index = randint(0,len(moves)-1)
@@ -168,137 +182,7 @@ class StudentAI():
             self.enemy_turn = "B"'''
 
 
-    def score(self):
-        b_count, w_count = self.board.count_score()
-        if self.color == 1:
-            return b_count - w_count
-        return w_count - b_count
-
-    
-    def Max_Value(self,depth):
-        #print("Inside Max_value and depth is : ", depth)
-        win = self.board.is_win(self.color)
-        moves = self.board.get_all_possible_moves(self.color)
-        
-        v = -sys.maxsize - 1  # Negative Infinity
-        move = None
-
-        # Terminal conditions
-        if depth == 0:
-            #print("returning None")
-            return self.score(), None
-        elif win == 0 and moves == []: #condition where there is a tie.
-            return [0,None]
-        elif win == self.color:
-            return [7,None] #returning [None for Move obj, 1 for win]
-        elif win == self.opponent[self.color]:
-            return [-7,None] #returning [None for Move obj, -1 for loss]
-
-        #self.board.show_board()
-        #print(moves)
-        for pieces in moves: 
-            for move_ in pieces: 
-                self.board.make_move(move_,self.color)
-                v2, move2 = self.Min_Value(depth-1)
-                move2 = move_
-                self.board.undo()
-
-                if v2 > v: 
-                    # If v2 is the largest value found so far, replace v and move
-                    v, move = v2, move2
-
-        return v, move
-
-
-
-    def Min_Value(self, depth):
-        #print("Inside Min_value and depth is : ", depth)
-        win = self.board.is_win(self.color)
-        moves = self.board.get_all_possible_moves(self.opponent[self.color])
-      
-        v = sys.maxsize  # Positive Infinity
-        move = None
-        
-        # Terminal Conditions
-        if depth == 0: 
-            #print("returning None")
-            return self.score(), None
-        elif win == 0 and moves == []: #condition where there is a tie.
-            return [0,None]
-        elif win == self.color:
-            return [7,None] #returning [None for Move obj, 1 for win]
-        elif win == self.opponent[self.color]:  # Condition where enemy wins
-            return [-7,None] #returning [None for Move obj, -1 for loss]
-        
-
-        # Get all possible moves for the enemy AI & find the best move for the enemy
-        #self.board.show_board()
-        #print(moves)
-        for pieces in moves:
-            for enemy_move in pieces:
-                #print("Enemy move is: ", enemy_move, ".")
-                self.board.make_move(enemy_move, self.opponent[self.color])
-                v2, move2 = self.Max_Value(depth - 1)
-                move2 = enemy_move
-                self.board.undo()
-
-                if v2 < v:
-                    # If v2 is the smallest value found so far, replace v and move
-                    v, move = v2, move2
-
-        return v, move
-
-    
-    def mm_search(self):
-        # Mini-Max search
-
-        # Compute all possible moves for our AI
-        #moves = self.board.get_all_possible_moves(self.color)
-
-        # Run every possible move through the Max_Value algorithm
-        # Find the move that has the largest score value (this is the most optimal move)
-        depth = 4
-        v, move = self.Max_Value(depth)
-        return move 
-
-
-        #best_move = max([self.Max_Value(i) for i in moves])
-    
-
-        # return: Move
-        #return best_move
-
-      
-
-    def recursion(self):
-
-        if self.color == 1:
-            turn = 'B'
-        elif self.color == 2:
-            turn = 'W'
-        win = self.board.is_win(turn) #we need to pass whose turn it it to check winning condition
-        moves = self.board.get_all_possible_moves(self.color)
-        if win == 0 and moves != []: # condition where no one won yet
-            #print("No one won.")
-            #print("moves: ",moves)
-            scores = []
-            for row in moves: #trying to go through all the moves avaliable and check if they lead to winning conditions
-                for move in row:
-                    self.board.make_move(move,self.color)
-                    score = self.recursion()[1] # index 1 gives the score(win/loss) of making a move
-                    scores.append([move,score])
-                    self.board.undo() #we have to undo the move just made to test other moves
-            scores.sort(key = lambda x: x[1], reverse = True)
-            #self.board.show_board()
-            #print("Scores: ",scores)
-            return [scores[0][0],sum([score[1] for score in scores])] #returning [Move obj, sum of all the wins of all possible moves]
-        elif win == 0: #condition where there is a tie.
-            return [None,0]
-        elif win == self.color:
-            return [None,1] #returning [None for Move obj, 1 for win]
-        else:
-            return [None,-1] #returning [None for Move obj, -1 for loss]
-        
+  
     
     def get_move(self,move):
         #print("get_move")
@@ -314,11 +198,23 @@ class StudentAI():
         #move = self.recursion()[0]
         
 
-        
-        
-        move = self.mm_search()
-        #self.board.show_board()
-        #print("Resulting move is : ", move)
-        #print("COLOR", self.color)
-        self.board.make_move(move, self.color)
-        return move
+        numSimulations = 5
+        root_node = Node(None, move, self.board, self.color)
+
+        curr_node = root_node
+
+        while numSimulations > 0: 
+            if curr_node.isexpanded == 0: 
+                curr_node.expand()
+                for child in curr_node.children(): 
+                    child.simulate()
+                    child.backpropogate() 
+                numSimulations -= 1
+                curr_node = root_node
+            else:
+                if curr_node.issimulated == 1 and curr_node.children != []: 
+                    curr_node = root_node.findLargestChild()
+
+        bestchild = root_node.findLargestChild()
+        self.board.make_move(move,self.color)
+        return bestchild.move
