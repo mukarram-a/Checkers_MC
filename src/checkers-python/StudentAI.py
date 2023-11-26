@@ -83,6 +83,9 @@ class Node():
         Calculates and returns the UCT value for a node
         
         '''
+        if self.totalSimulations == 0: 
+            return sys.maxsize
+        
         return (self.wins/self.totalSimulations) + self.exploration * math.sqrt((math.log(self.parent.totalSimulations)/ self.totalSimulations))
 
     def backpropogate(self):
@@ -103,8 +106,8 @@ class Node():
         logging.debug(moves)
         for piece in moves: 
             for move in piece:
-                logging.debug("self.color is ", self.color)
-                logging.debug("move is ", move)
+                #logging.debug("self.color is ", self.color)
+                #logging.debug("move is " + move)
                 self.board.make_move(move, self.color)
                 child = Node(self, move, self.board, self.color)
                 self.children.append(child)
@@ -148,7 +151,7 @@ class Node():
 
 
 
-    def findLargestChild(self, parent):
+    def findLargestChild(self):
         '''
         Takes a parent node as a parameter and returns the child Node that has the largest UCT value
         
@@ -157,11 +160,11 @@ class Node():
         max_child = None
         max_score = 0
 
-        if parent.children == set():
+        if self.children == list():
             return None
 
         # Get the UTC score for all children
-        for child in parent.children:
+        for child in self.children:
             if child.UCT() > max_score:
                 max_child = child
                 max_score = child.UCT()
