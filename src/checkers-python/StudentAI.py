@@ -6,6 +6,7 @@ import sys
 #The following part should be completed by students.
 #Students can modify anything except the class name and exisiting functions and varibles.
 
+EXPLORATION = 3
 root = None
 
 class Node():
@@ -15,7 +16,7 @@ class Node():
         
         self.wins = 0 
         self.totalSimulations = 0 
-        self.exploration = 0
+        self.exploration = EXPLORATION
         
         self.move = move            # Board position that the piece moves to
         self.parent = parent        # Node object that references the parent node
