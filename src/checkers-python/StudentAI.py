@@ -6,6 +6,8 @@ import sys
 #The following part should be completed by students.
 #Students can modify anything except the class name and exisiting functions and varibles.
 
+root = None
+
 class Node():
 
     def __init__(self, parent, move):
@@ -15,11 +17,26 @@ class Node():
         self.children = set()       # Contains Node objects for child nodes
 
 
-    def removeSubTree(self, parent):
+    def removeSubTree(self, parent, do_not_remove):
         '''
-        Removes sub trees from Python memory to prevent MemoryError
+        Recursively removes sub trees from Python memory to prevent MemoryError
+        
+        do_not_remove is the node of the subtree that we don't want to delete 
+
+        Ex.
+
+                Root
+               /   \
+           left     right   
+
+           left is the next move we decided on, so "left" == "do_not_remove"
+           The right subtree will be deleted to clear memory
         
         '''
+
+        if parent is do_not_remove:
+            return
+
 
         if parent.children == set():
             # If node has no children, delete it
@@ -32,6 +49,24 @@ class Node():
         
         return
             
+    
+    def findMove(self):
+        global root
+        '''
+        Checks the highest value child to determine the next move
+        
+        '''
+
+        # If the root node has children, get the highest-value 
+        # child to determine the next move
+        if root.children != set():
+            future_move = max(root.children)
+
+        
+
+
+
+
 
 
 
