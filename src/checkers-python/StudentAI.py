@@ -102,7 +102,7 @@ class Node():
             curr_node = curr_node.parent
 
 
-    def expand(self):
+    def expand(self, root=1):
         moves = self.board.get_all_possible_moves(self.color)
         logging.debug("TOTAL MOVES" + str(moves))
         for piece in moves: 
@@ -111,7 +111,10 @@ class Node():
                 logging.debug("self.color is " + str(self.color))
                 # logging.debug(move)
                 self.board.make_move(move, self.color)
-                child = Node(self, move, self.board, self.opponent[self.color])
+                if root == 0:
+                    child = Node(self, move, self.board, self.color)
+                else:
+                    child = Node(self, move, self.board, self.opponent[self.color])
                 self.children.append(child)
                 self.board.undo()
         self.isexpanded = 1
@@ -145,7 +148,7 @@ class Node():
                 break
             elif win == self.opponent[self.color]:  # Condition where enemy wins
                 self.totalSimulations += 1
-                break 
+                break  
             
             
             index = randint(0,len(moves)-1)
@@ -159,9 +162,7 @@ class Node():
             else:
                 color = 1
         
-        logging.debug("Loop broken")
         for i in range(count): 
-            logging.debug("Undo")
             self.board.undo()
 
         logging.debug("Undo done")
@@ -228,6 +229,8 @@ class StudentAI():
         #move = self.recursion()[0]
         
 
+        logging.debug(self.board.get_all_possible_moves(self.color))
+        
         numSimulations = 5
         root_node = Node(None, move, deepcopy(self.board), self.color)
 
@@ -238,26 +241,36 @@ class StudentAI():
         # logging.debug(curr_node.color)
 
         while numSimulations > 0: 
-            logging.debug("numSimulations = " + str(numSimulations))
+            #logging.debug(numSimulations)
             if curr_node.isexpanded == 0: 
-                logging.debug("Inside if statement")
-                curr_node.expand()
+                #logging.debug("Inside if statement")
+                if numSimulations == 5:
+                    curr_node.expand(0)
+                else:
+                    curr_node.expand()
+                #logging.debug("After expanding")
                 for child in curr_node.children: 
                     child.simulate()
+                    #logging.debug("After simulate child")
                     child.backpropogate() 
-                    logging.debug("Child is expanded is " + str(child.isexpanded))
+                    #logging.debug("Child is expanded is " + str(child.isexpanded))
                 numSimulations -= 1
                 curr_node = root_node
             else:
-                logging.debug("Inside else statement")
-                logging.debug("curr_node isexpanded: " + str(curr_node.isexpanded))
-                logging.debug("curr_node issimulated: " + str(curr_node.issimulated))
+                #logging.debug("Inside else statement")
+                #logging.debug("curr_node isexpanded: " + str(curr_node.isexpanded))
+                #logging.debug("curr_node issimulated: " + str(curr_node.issimulated))
                 if curr_node.issimulated == 1 and curr_node.children != []: 
-                    logging.debug("finding the largest child")
+                    #logging.debug("finding the largest child")
                     curr_node = curr_node.findLargestChild()
 
+            #logging.debug("end of while loop")
         bestchild = root_node.findLargestChild()
+        #self.board.show_board()
+        logging.debug(bestchild.move)
+        for child in root_node.children:
+            logging.debug(child.wins/child.totalSimulations)
+        logging.debug(self.board.get_all_possible_moves(self.color))
+        logging.debug("end")
         self.board.make_move(bestchild.move,self.color)
-        logging.debug("Sending move: " + str(bestchild.move))
-
         return bestchild.move
