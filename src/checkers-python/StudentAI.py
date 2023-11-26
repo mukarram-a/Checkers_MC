@@ -72,6 +72,15 @@ class Node():
     def UCT(self):
         return (self.wins/self.totalSimulations) + self.exploration * math.sqrt((math.log(self.parent.totalSimulations)/ self.totalSimulations))
 
+    def backpropogate(self):
+        curr_node = self
+        while curr_node.parent != None:
+            curr_node.parent.wins += self.wins
+            curr_node.parent.totalSimulations += self.totalSimulations
+            curr_node = self.parent
+            
+
+
 
 
 
