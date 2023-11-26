@@ -23,20 +23,21 @@ for i in range(TOTAL_GAMES):
     print(i + 1, "of", TOTAL_GAMES, end = ": ")
 
     # Runs against "RandomAI.py"
-    result = subprocess.run(['python3', os.path.join(current_directory, "AI_Runner.py"), "8", "8", "3", "l", os.path.join(new_directory, "src", "checkers-python", "main.py"), os.path.join(current_directory, "Sample_AIs", "Random_AI", "main.py")], stdout=subprocess.PIPE)
+    result = subprocess.run(['python3', os.path.join(current_directory, "AI_Runner.py"), "8", "8", "3", "l", os.path.join(new_directory, "src", "checkers-python", "main.py"), os.path.join(current_directory, "Sample_AIs", "Average_AI", "main.py")], stdout=subprocess.PIPE)
    
     # Get output from original AI code (the code prints out which player wins).
     console_output = str(result.stdout)
+    # print(console_output)
 
     # Fix formatting for the original AI code output by removing symbols.
     output_search = console_output.strip("b'\\n")
 
     # Check which player won and incremenet it in the "wins" dictionary
-    if "1" in output_search:
+    if "player 1 wins" in output_search:
         print("Player 1 (Black) Wins")
         wins["Player_1_Black"] += 1
 
-    elif "2" in output_search:
+    elif "player 2 wins" in output_search:
         print("Player 2 (White) Wins")
         wins["Player_2_White"] += 1
 

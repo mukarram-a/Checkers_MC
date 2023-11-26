@@ -201,6 +201,8 @@ class StudentAI():
         numSimulations = 5
         root_node = Node(None, move, self.board, self.color)
 
+        print(type(self.board.get_all_possible_moves()))
+
         curr_node = root_node
 
         while numSimulations > 0: 
