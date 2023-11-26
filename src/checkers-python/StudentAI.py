@@ -12,6 +12,11 @@ class Node():
 
     def __init__(self, parent, move):
         self.score = 0              # (number of black pieces) - (number of white pieces)
+        
+        self.wins = 0 
+        self.totalSimulations = 0 
+        self.exploration = 0
+        
         self.move = move            # Board position that the piece moves to
         self.parent = parent        # Node object that references the parent node
         self.children = set()       # Contains Node objects for child nodes
