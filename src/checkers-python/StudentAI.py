@@ -186,6 +186,21 @@ class Node():
 
         return max_child
 
+    def returnBestMove(self):
+        max_child = None
+        max_score = 0
+
+        if self.children == list():
+            return None
+
+        # Get the UTC score for all children
+        for child in self.children:
+            score = (child.wins/child.totalSimulations)
+            if score > max_score:
+                max_child = child
+                max_score = score
+
+        return max_child
 
 
 
@@ -227,7 +242,7 @@ class StudentAI():
 
         logging.debug(self.board.get_all_possible_moves(self.color))
         
-        numSimulations = 5
+        numSimulations = 50
         root_node = Node(None, move, self.board, self.color)
 
         curr_node = root_node
@@ -240,7 +255,7 @@ class StudentAI():
             #logging.debug(numSimulations)
             if curr_node.isexpanded == 0: 
                 #logging.debug("Inside if statement")
-                if numSimulations == 5:
+                if numSimulations == 50:
                     curr_node.expand(0)
                 else:
                     curr_node.expand()
@@ -261,12 +276,13 @@ class StudentAI():
                     curr_node = curr_node.findLargestChild()
 
             #logging.debug("end of while loop")
-        bestchild = root_node.findLargestChild()
+        bestchild = root_node.returnBestMove()
         #self.board.show_board()
+        logging.debug("Best move is: ")
         logging.debug(bestchild.move)
         for child in root_node.children:
             logging.debug(child.wins/child.totalSimulations)
-        logging.debug(self.board.get_all_possible_moves(self.color))
-        logging.debug("end")
+        #logging.debug(self.board.get_all_possible_moves(self.color))
+        #logging.debug("end")
         self.board.make_move(bestchild.move,self.color)
         return bestchild.move
