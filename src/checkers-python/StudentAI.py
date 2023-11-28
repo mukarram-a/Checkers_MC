@@ -154,7 +154,7 @@ class Node():
                 #logging.debug("win is " + str(win))
                 #logging.debug("Tie")
                 break
-            elif win == self.color:
+            elif win == self.parent.color:
                 #logging.debug("Node's moves: ")
                 #logging.debug(simulate_board.get_all_possible_moves(self.color))
                 #logging.debug("Opponent's moves: ")
@@ -165,7 +165,7 @@ class Node():
                 #logging.debug("win is " + str(win))
                 #logging.debug("win")
                 break
-            elif win == self.opponent[self.color]:  # Condition where enemy wins
+            elif win == self.opponent[self.parent.color]:  # Condition where enemy wins
                 #logging.debug("Node's moves: ")
                 #logging.debug(simulate_board.get_all_possible_moves(self.color))
                 #logging.debug("Opponent's moves: ")
@@ -222,7 +222,7 @@ class Node():
         '''
 
         max_child = None
-        max_score = 0
+        max_score = -1
 
         if self.children == list():
             logging.debug("Returning None")
@@ -230,7 +230,7 @@ class Node():
 
         # Get the UTC score for all children
         for child in self.children:
-            if ((child.UCT() > max_score) or (max_child == None)):
+            if child.UCT() > max_score:
                 max_child = child
                 max_score = child.UCT()
 
@@ -334,18 +334,13 @@ class StudentAI():
                     #    logging.debug(curr_node.totalSimulations)
                     #    logging.debug(children)
                     
-                    if curr_node.children == []: 
-                        curr_node.simulate()
-                        curr_node = root_node
-                        logging.debug("335 Curr_node is None: " + str(curr_node == None))
-                    else:
-
-                        logging.debug(curr_node.children)
-                        curr_node = curr_node.findLargestChild()
-                        logging.debug("339 Curr_node is None: " + str(curr_node == None))
+                    logging.debug(curr_node.children)
+                    curr_node = curr_node.findLargestChild()
+                    logging.debug("336 Curr_node is None: " + str(curr_node == None))
                     #logging.debug(curr_node == None)
 
                     #logging.debug(curr_node.UCT())
+
 
             #logging.debug("end of while loop")
         bestchild = root_node.returnBestMove()
