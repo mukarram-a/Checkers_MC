@@ -1,3 +1,2434 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 162 - Loop broken
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 167 - Undo done
+26-Nov-23 13:58:26 - DEBUG - 241 - numSimulations = 5
+26-Nov-23 13:58:26 - DEBUG - 243 - Inside if statement
+26-Nov-23 13:58:26 - DEBUG - 107 - TOTAL MOVES[[(2,0)-(3,1)], [(2,2)-(3,1), (2,2)-(3,3)], [(2,4)-(3,3), (2,4)-(3,5)]]
+26-Nov-23 13:58:26 - DEBUG - 111 - self.color is 1
+26-Nov-23 13:58:26 - DEBUG - 111 - self.color is 1
+26-Nov-23 13:58:26 - DEBUG - 111 - self.color is 1
+26-Nov-23 13:58:26 - DEBUG - 111 - self.color is 1
+26-Nov-23 13:58:26 - DEBUG - 111 - self.color is 1
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 162 - Loop broken
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 167 - Undo done
+26-Nov-23 13:58:26 - DEBUG - 248 - Child is expanded is 0
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 162 - Loop broken
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 167 - Undo done
+26-Nov-23 13:58:26 - DEBUG - 248 - Child is expanded is 0
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 162 - Loop broken
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 167 - Undo done
+26-Nov-23 13:58:26 - DEBUG - 248 - Child is expanded is 0
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 162 - Loop broken
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 167 - Undo done
+26-Nov-23 13:58:26 - DEBUG - 248 - Child is expanded is 0
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 162 - Loop broken
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 167 - Undo done
+26-Nov-23 13:58:26 - DEBUG - 248 - Child is expanded is 0
+26-Nov-23 13:58:26 - DEBUG - 241 - numSimulations = 4
+26-Nov-23 13:58:26 - DEBUG - 252 - Inside else statement
+26-Nov-23 13:58:26 - DEBUG - 253 - curr_node isexpanded: 1
+26-Nov-23 13:58:26 - DEBUG - 254 - curr_node issimulated: 1
+26-Nov-23 13:58:26 - DEBUG - 256 - finding the largest child
+26-Nov-23 13:58:26 - DEBUG - 241 - numSimulations = 4
+26-Nov-23 13:58:26 - DEBUG - 243 - Inside if statement
+26-Nov-23 13:58:26 - DEBUG - 107 - TOTAL MOVES[[(4,0)-(3,1)], [(4,2)-(3,1), (4,2)-(3,3)], [(4,4)-(3,3), (4,4)-(3,5)]]
+26-Nov-23 13:58:26 - DEBUG - 111 - self.color is 2
+26-Nov-23 13:58:26 - DEBUG - 111 - self.color is 2
+26-Nov-23 13:58:26 - DEBUG - 111 - self.color is 2
+26-Nov-23 13:58:26 - DEBUG - 111 - self.color is 2
+26-Nov-23 13:58:26 - DEBUG - 111 - self.color is 2
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 162 - Loop broken
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 167 - Undo done
+26-Nov-23 13:58:26 - DEBUG - 248 - Child is expanded is 0
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 162 - Loop broken
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 167 - Undo done
+26-Nov-23 13:58:26 - DEBUG - 248 - Child is expanded is 0
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 162 - Loop broken
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 167 - Undo done
+26-Nov-23 13:58:26 - DEBUG - 248 - Child is expanded is 0
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 162 - Loop broken
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 167 - Undo done
+26-Nov-23 13:58:26 - DEBUG - 248 - Child is expanded is 0
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 162 - Loop broken
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 167 - Undo done
+26-Nov-23 13:58:26 - DEBUG - 248 - Child is expanded is 0
+26-Nov-23 13:58:26 - DEBUG - 241 - numSimulations = 3
+26-Nov-23 13:58:26 - DEBUG - 252 - Inside else statement
+26-Nov-23 13:58:26 - DEBUG - 253 - curr_node isexpanded: 1
+26-Nov-23 13:58:26 - DEBUG - 254 - curr_node issimulated: 1
+26-Nov-23 13:58:26 - DEBUG - 256 - finding the largest child
+26-Nov-23 13:58:26 - DEBUG - 241 - numSimulations = 3
+26-Nov-23 13:58:26 - DEBUG - 243 - Inside if statement
+26-Nov-23 13:58:26 - DEBUG - 107 - TOTAL MOVES[[(4,0)-(3,1)], [(4,2)-(3,1), (4,2)-(3,3)], [(4,4)-(3,3), (4,4)-(3,5)]]
+26-Nov-23 13:58:26 - DEBUG - 111 - self.color is 2
+26-Nov-23 13:58:26 - DEBUG - 111 - self.color is 2
+26-Nov-23 13:58:26 - DEBUG - 111 - self.color is 2
+26-Nov-23 13:58:26 - DEBUG - 111 - self.color is 2
+26-Nov-23 13:58:26 - DEBUG - 111 - self.color is 2
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 162 - Loop broken
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 167 - Undo done
+26-Nov-23 13:58:26 - DEBUG - 248 - Child is expanded is 0
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 162 - Loop broken
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 167 - Undo done
+26-Nov-23 13:58:26 - DEBUG - 248 - Child is expanded is 0
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 162 - Loop broken
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 167 - Undo done
+26-Nov-23 13:58:26 - DEBUG - 248 - Child is expanded is 0
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 162 - Loop broken
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 167 - Undo done
+26-Nov-23 13:58:26 - DEBUG - 248 - Child is expanded is 0
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 162 - Loop broken
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 167 - Undo done
+26-Nov-23 13:58:26 - DEBUG - 248 - Child is expanded is 0
+26-Nov-23 13:58:26 - DEBUG - 241 - numSimulations = 2
+26-Nov-23 13:58:26 - DEBUG - 252 - Inside else statement
+26-Nov-23 13:58:26 - DEBUG - 253 - curr_node isexpanded: 1
+26-Nov-23 13:58:26 - DEBUG - 254 - curr_node issimulated: 1
+26-Nov-23 13:58:26 - DEBUG - 256 - finding the largest child
+26-Nov-23 13:58:26 - DEBUG - 241 - numSimulations = 2
+26-Nov-23 13:58:26 - DEBUG - 243 - Inside if statement
+26-Nov-23 13:58:26 - DEBUG - 107 - TOTAL MOVES[[(4,0)-(3,1)], [(4,2)-(3,1), (4,2)-(3,3)], [(4,4)-(3,3), (4,4)-(3,5)]]
+26-Nov-23 13:58:26 - DEBUG - 111 - self.color is 2
+26-Nov-23 13:58:26 - DEBUG - 111 - self.color is 2
+26-Nov-23 13:58:26 - DEBUG - 111 - self.color is 2
+26-Nov-23 13:58:26 - DEBUG - 111 - self.color is 2
+26-Nov-23 13:58:26 - DEBUG - 111 - self.color is 2
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 162 - Loop broken
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 167 - Undo done
+26-Nov-23 13:58:26 - DEBUG - 248 - Child is expanded is 0
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 162 - Loop broken
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 167 - Undo done
+26-Nov-23 13:58:26 - DEBUG - 248 - Child is expanded is 0
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 162 - Loop broken
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 167 - Undo done
+26-Nov-23 13:58:26 - DEBUG - 248 - Child is expanded is 0
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 162 - Loop broken
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 167 - Undo done
+26-Nov-23 13:58:26 - DEBUG - 248 - Child is expanded is 0
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 162 - Loop broken
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 167 - Undo done
+26-Nov-23 13:58:26 - DEBUG - 248 - Child is expanded is 0
+26-Nov-23 13:58:26 - DEBUG - 241 - numSimulations = 1
+26-Nov-23 13:58:26 - DEBUG - 252 - Inside else statement
+26-Nov-23 13:58:26 - DEBUG - 253 - curr_node isexpanded: 1
+26-Nov-23 13:58:26 - DEBUG - 254 - curr_node issimulated: 1
+26-Nov-23 13:58:26 - DEBUG - 256 - finding the largest child
+26-Nov-23 13:58:26 - DEBUG - 241 - numSimulations = 1
+26-Nov-23 13:58:26 - DEBUG - 243 - Inside if statement
+26-Nov-23 13:58:26 - DEBUG - 107 - TOTAL MOVES[[(4,0)-(3,1)], [(4,2)-(3,1), (4,2)-(3,3)], [(4,4)-(3,3), (4,4)-(3,5)]]
+26-Nov-23 13:58:26 - DEBUG - 111 - self.color is 2
+26-Nov-23 13:58:26 - DEBUG - 111 - self.color is 2
+26-Nov-23 13:58:26 - DEBUG - 111 - self.color is 2
+26-Nov-23 13:58:26 - DEBUG - 111 - self.color is 2
+26-Nov-23 13:58:26 - DEBUG - 111 - self.color is 2
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 162 - Loop broken
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 167 - Undo done
+26-Nov-23 13:58:26 - DEBUG - 248 - Child is expanded is 0
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 162 - Loop broken
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 167 - Undo done
+26-Nov-23 13:58:26 - DEBUG - 248 - Child is expanded is 0
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 162 - Loop broken
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 167 - Undo done
+26-Nov-23 13:58:26 - DEBUG - 248 - Child is expanded is 0
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 162 - Loop broken
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 167 - Undo done
+26-Nov-23 13:58:26 - DEBUG - 248 - Child is expanded is 0
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 134 - Stuck in loop
+26-Nov-23 13:58:26 - DEBUG - 162 - Loop broken
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 164 - Undo
+26-Nov-23 13:58:26 - DEBUG - 167 - Undo done
+26-Nov-23 13:58:26 - DEBUG - 248 - Child is expanded is 0
+26-Nov-23 13:58:26 - DEBUG - 261 - Sending move: (2,2)-(3,3)
+=======
+26-Nov-23 13:57:42 - DEBUG - 228 - [[(2,0)-(3,1)], [(2,2)-(3,1), (2,2)-(3,3)], [(2,4)-(3,3), (2,4)-(3,5)]]
+26-Nov-23 13:57:42 - DEBUG - 235 - 1
+26-Nov-23 13:57:42 - DEBUG - 237 - 1
+26-Nov-23 13:57:42 - DEBUG - 107 - [[(2,0)-(3,1)], [(2,2)-(3,1), (2,2)-(3,3)], [(2,4)-(3,3), (2,4)-(3,5)]]
+26-Nov-23 13:57:42 - DEBUG - 112 - (2,0)-(3,1)
+26-Nov-23 13:57:42 - DEBUG - 112 - (2,2)-(3,1)
+26-Nov-23 13:57:42 - DEBUG - 112 - (2,2)-(3,3)
+26-Nov-23 13:57:42 - DEBUG - 112 - (2,4)-(3,3)
+26-Nov-23 13:57:42 - DEBUG - 112 - (2,4)-(3,5)
+26-Nov-23 13:57:42 - DEBUG - 107 - [[(2,0)-(3,1)], [(2,2)-(3,1), (2,2)-(3,3)], [(2,4)-(3,3), (2,4)-(3,5)]]
+26-Nov-23 13:57:42 - DEBUG - 112 - (2,0)-(3,1)
+26-Nov-23 13:57:42 - DEBUG - 112 - (2,2)-(3,1)
+26-Nov-23 13:57:42 - DEBUG - 112 - (2,2)-(3,3)
+26-Nov-23 13:57:42 - DEBUG - 112 - (2,4)-(3,3)
+26-Nov-23 13:57:42 - DEBUG - 112 - (2,4)-(3,5)
+26-Nov-23 13:57:42 - DEBUG - 107 - [[(2,0)-(3,1)], [(2,2)-(3,1), (2,2)-(3,3)], [(2,4)-(3,3), (2,4)-(3,5)]]
+26-Nov-23 13:57:42 - DEBUG - 112 - (2,0)-(3,1)
+26-Nov-23 13:57:42 - DEBUG - 112 - (2,2)-(3,1)
+26-Nov-23 13:57:42 - DEBUG - 112 - (2,2)-(3,3)
+26-Nov-23 13:57:42 - DEBUG - 112 - (2,4)-(3,3)
+26-Nov-23 13:57:42 - DEBUG - 112 - (2,4)-(3,5)
+26-Nov-23 13:57:42 - DEBUG - 107 - [[(2,0)-(3,1)], [(2,2)-(3,1), (2,2)-(3,3)], [(2,4)-(3,3), (2,4)-(3,5)]]
+26-Nov-23 13:57:42 - DEBUG - 112 - (2,0)-(3,1)
+26-Nov-23 13:57:42 - DEBUG - 112 - (2,2)-(3,1)
+26-Nov-23 13:57:42 - DEBUG - 112 - (2,2)-(3,3)
+26-Nov-23 13:57:42 - DEBUG - 112 - (2,4)-(3,3)
+26-Nov-23 13:57:42 - DEBUG - 112 - (2,4)-(3,5)
+26-Nov-23 13:57:42 - DEBUG - 107 - [[(2,0)-(3,1)], [(2,2)-(3,1), (2,2)-(3,3)], [(2,4)-(3,3), (2,4)-(3,5)]]
+26-Nov-23 13:57:42 - DEBUG - 112 - (2,0)-(3,1)
+26-Nov-23 13:57:42 - DEBUG - 112 - (2,2)-(3,1)
+26-Nov-23 13:57:42 - DEBUG - 112 - (2,2)-(3,3)
+26-Nov-23 13:57:42 - DEBUG - 112 - (2,4)-(3,3)
+26-Nov-23 13:57:42 - DEBUG - 112 - (2,4)-(3,5)
+26-Nov-23 13:57:42 - DEBUG - 266 - (2,4)-(3,5)
+26-Nov-23 13:57:42 - DEBUG - 268 - 0.6666666666666666
+26-Nov-23 13:57:42 - DEBUG - 268 - 0.3333333333333333
+26-Nov-23 13:57:42 - DEBUG - 268 - 0.5
+26-Nov-23 13:57:42 - DEBUG - 268 - 0.6666666666666666
+26-Nov-23 13:57:42 - DEBUG - 268 - 0.0
+26-Nov-23 13:57:42 - DEBUG - 269 - [[(2,0)-(3,1)], [(2,2)-(3,1), (2,2)-(3,3)], [(2,4)-(3,3), (2,4)-(3,5)]]
+26-Nov-23 13:57:42 - DEBUG - 270 - end
+26-Nov-23 13:57:42 - DEBUG - 228 - [[(1,3)-(2,4)], [(1,5)-(2,4)], [(2,0)-(3,1)], [(2,2)-(3,1)]]
+26-Nov-23 13:57:42 - DEBUG - 235 - 1
+26-Nov-23 13:57:42 - DEBUG - 237 - 1
+26-Nov-23 13:57:42 - DEBUG - 107 - [[(1,3)-(2,4)], [(1,5)-(2,4)], [(2,0)-(3,1)], [(2,2)-(3,1)]]
+26-Nov-23 13:57:42 - DEBUG - 112 - (1,3)-(2,4)
+26-Nov-23 13:57:42 - DEBUG - 112 - (1,5)-(2,4)
+26-Nov-23 13:57:42 - DEBUG - 112 - (2,0)-(3,1)
+26-Nov-23 13:57:42 - DEBUG - 112 - (2,2)-(3,1)
+26-Nov-23 13:57:42 - DEBUG - 107 - [[(1,3)-(2,4)], [(1,5)-(2,4)], [(2,0)-(3,1)], [(2,2)-(3,1)]]
+26-Nov-23 13:57:42 - DEBUG - 112 - (1,3)-(2,4)
+26-Nov-23 13:57:42 - DEBUG - 112 - (1,5)-(2,4)
+26-Nov-23 13:57:42 - DEBUG - 112 - (2,0)-(3,1)
+26-Nov-23 13:57:42 - DEBUG - 112 - (2,2)-(3,1)
+26-Nov-23 13:57:43 - DEBUG - 107 - [[(1,3)-(2,4)], [(1,5)-(2,4)], [(2,0)-(3,1)], [(2,2)-(3,1)]]
+26-Nov-23 13:57:43 - DEBUG - 112 - (1,3)-(2,4)
+26-Nov-23 13:57:43 - DEBUG - 112 - (1,5)-(2,4)
+26-Nov-23 13:57:43 - DEBUG - 112 - (2,0)-(3,1)
+26-Nov-23 13:57:43 - DEBUG - 112 - (2,2)-(3,1)
+26-Nov-23 13:57:43 - DEBUG - 107 - [[(1,3)-(2,4)], [(1,5)-(2,4)], [(2,0)-(3,1)], [(2,2)-(3,1)]]
+26-Nov-23 13:57:43 - DEBUG - 112 - (1,3)-(2,4)
+26-Nov-23 13:57:43 - DEBUG - 112 - (1,5)-(2,4)
+26-Nov-23 13:57:43 - DEBUG - 112 - (2,0)-(3,1)
+26-Nov-23 13:57:43 - DEBUG - 112 - (2,2)-(3,1)
+26-Nov-23 13:57:43 - DEBUG - 107 - [[(1,3)-(2,4)], [(1,5)-(2,4)], [(2,0)-(3,1)], [(2,2)-(3,1)]]
+26-Nov-23 13:57:43 - DEBUG - 112 - (1,3)-(2,4)
+26-Nov-23 13:57:43 - DEBUG - 112 - (1,5)-(2,4)
+26-Nov-23 13:57:43 - DEBUG - 112 - (2,0)-(3,1)
+26-Nov-23 13:57:43 - DEBUG - 112 - (2,2)-(3,1)
+26-Nov-23 13:57:43 - DEBUG - 266 - (1,3)-(2,4)
+26-Nov-23 13:57:43 - DEBUG - 268 - 0.8
+26-Nov-23 13:57:43 - DEBUG - 268 - 0.4
+26-Nov-23 13:57:43 - DEBUG - 268 - 0.4
+26-Nov-23 13:57:43 - DEBUG - 268 - 0.4
+26-Nov-23 13:57:43 - DEBUG - 269 - [[(1,3)-(2,4)], [(1,5)-(2,4)], [(2,0)-(3,1)], [(2,2)-(3,1)]]
+26-Nov-23 13:57:43 - DEBUG - 270 - end
+26-Nov-23 13:57:43 - DEBUG - 228 - [[(0,2)-(1,3)], [(0,4)-(1,3)], [(2,0)-(3,1)], [(2,2)-(3,1)]]
+26-Nov-23 13:57:43 - DEBUG - 235 - 1
+26-Nov-23 13:57:43 - DEBUG - 237 - 1
+26-Nov-23 13:57:43 - DEBUG - 107 - [[(0,2)-(1,3)], [(0,4)-(1,3)], [(2,0)-(3,1)], [(2,2)-(3,1)]]
+26-Nov-23 13:57:43 - DEBUG - 112 - (0,2)-(1,3)
+26-Nov-23 13:57:43 - DEBUG - 112 - (0,4)-(1,3)
+26-Nov-23 13:57:43 - DEBUG - 112 - (2,0)-(3,1)
+26-Nov-23 13:57:43 - DEBUG - 112 - (2,2)-(3,1)
+26-Nov-23 13:57:43 - DEBUG - 107 - [[(0,2)-(1,3)], [(0,4)-(1,3)], [(2,0)-(3,1)], [(2,2)-(3,1)]]
+26-Nov-23 13:57:43 - DEBUG - 112 - (0,2)-(1,3)
+26-Nov-23 13:57:43 - DEBUG - 112 - (0,4)-(1,3)
+26-Nov-23 13:57:43 - DEBUG - 112 - (2,0)-(3,1)
+26-Nov-23 13:57:43 - DEBUG - 112 - (2,2)-(3,1)
+26-Nov-23 13:57:43 - DEBUG - 107 - [[(0,2)-(1,3)], [(0,4)-(1,3)], [(2,0)-(3,1)], [(2,2)-(3,1)]]
+26-Nov-23 13:57:43 - DEBUG - 112 - (0,2)-(1,3)
+26-Nov-23 13:57:43 - DEBUG - 112 - (0,4)-(1,3)
+26-Nov-23 13:57:43 - DEBUG - 112 - (2,0)-(3,1)
+26-Nov-23 13:57:43 - DEBUG - 112 - (2,2)-(3,1)
+26-Nov-23 13:57:43 - DEBUG - 107 - [[(0,2)-(1,3)], [(0,4)-(1,3)], [(2,0)-(3,1)], [(2,2)-(3,1)]]
+26-Nov-23 13:57:43 - DEBUG - 112 - (0,2)-(1,3)
+26-Nov-23 13:57:43 - DEBUG - 112 - (0,4)-(1,3)
+26-Nov-23 13:57:43 - DEBUG - 112 - (2,0)-(3,1)
+26-Nov-23 13:57:43 - DEBUG - 112 - (2,2)-(3,1)
+26-Nov-23 13:57:43 - DEBUG - 107 - [[(0,2)-(1,3)], [(0,4)-(1,3)], [(2,0)-(3,1)], [(2,2)-(3,1)]]
+26-Nov-23 13:57:43 - DEBUG - 112 - (0,2)-(1,3)
+26-Nov-23 13:57:43 - DEBUG - 112 - (0,4)-(1,3)
+26-Nov-23 13:57:43 - DEBUG - 112 - (2,0)-(3,1)
+26-Nov-23 13:57:43 - DEBUG - 112 - (2,2)-(3,1)
+26-Nov-23 13:57:43 - DEBUG - 266 - (0,4)-(1,3)
+26-Nov-23 13:57:43 - DEBUG - 268 - 0.0
+26-Nov-23 13:57:43 - DEBUG - 268 - 1.0
+26-Nov-23 13:57:43 - DEBUG - 268 - 0.6
+26-Nov-23 13:57:43 - DEBUG - 268 - 1.0
+26-Nov-23 13:57:43 - DEBUG - 269 - [[(0,2)-(1,3)], [(0,4)-(1,3)], [(2,0)-(3,1)], [(2,2)-(3,1)]]
+26-Nov-23 13:57:43 - DEBUG - 270 - end
+26-Nov-23 13:57:43 - DEBUG - 228 - [[(2,0)-(3,1)], [(2,2)-(3,1)]]
+26-Nov-23 13:57:43 - DEBUG - 235 - 1
+26-Nov-23 13:57:43 - DEBUG - 237 - 1
+26-Nov-23 13:57:43 - DEBUG - 107 - [[(2,0)-(3,1)], [(2,2)-(3,1)]]
+26-Nov-23 13:57:43 - DEBUG - 112 - (2,0)-(3,1)
+26-Nov-23 13:57:43 - DEBUG - 112 - (2,2)-(3,1)
+26-Nov-23 13:57:43 - DEBUG - 107 - [[(2,0)-(3,1)], [(2,2)-(3,1)]]
+26-Nov-23 13:57:43 - DEBUG - 112 - (2,0)-(3,1)
+26-Nov-23 13:57:43 - DEBUG - 112 - (2,2)-(3,1)
+26-Nov-23 13:57:43 - DEBUG - 107 - [[(2,0)-(3,1)], [(2,2)-(3,1)]]
+26-Nov-23 13:57:43 - DEBUG - 112 - (2,0)-(3,1)
+26-Nov-23 13:57:43 - DEBUG - 112 - (2,2)-(3,1)
+26-Nov-23 13:57:43 - DEBUG - 107 - [[(4,0)-(3,1)], [(4,2)-(3,1)]]
+26-Nov-23 13:57:43 - DEBUG - 112 - (4,0)-(3,1)
+26-Nov-23 13:57:43 - DEBUG - 112 - (4,2)-(3,1)
+26-Nov-23 13:57:43 - DEBUG - 107 - [[(4,0)-(3,1)], [(4,2)-(3,1)]]
+26-Nov-23 13:57:43 - DEBUG - 112 - (4,0)-(3,1)
+26-Nov-23 13:57:43 - DEBUG - 112 - (4,2)-(3,1)
+26-Nov-23 13:57:43 - DEBUG - 266 - (2,0)-(3,1)
+26-Nov-23 13:57:43 - DEBUG - 268 - 0.8
+26-Nov-23 13:57:43 - DEBUG - 268 - 0.6
+26-Nov-23 13:57:43 - DEBUG - 269 - [[(2,0)-(3,1)], [(2,2)-(3,1)]]
+26-Nov-23 13:57:43 - DEBUG - 270 - end
+26-Nov-23 13:57:43 - DEBUG - 228 - [[(2,4)-(4,2)]]
+26-Nov-23 13:57:43 - DEBUG - 235 - 1
+26-Nov-23 13:57:44 - DEBUG - 237 - 1
+26-Nov-23 13:57:44 - DEBUG - 107 - [[(2,4)-(4,2)]]
+26-Nov-23 13:57:44 - DEBUG - 112 - (2,4)-(4,2)
+26-Nov-23 13:57:44 - DEBUG - 107 - [[(2,4)-(4,2)]]
+26-Nov-23 13:57:44 - DEBUG - 112 - (2,4)-(4,2)
+26-Nov-23 13:57:44 - DEBUG - 107 - [[(4,0)-(3,1)], [(5,1)-(4,2)], [(5,3)-(4,2)]]
+26-Nov-23 13:57:44 - DEBUG - 112 - (4,0)-(3,1)
+26-Nov-23 13:57:44 - DEBUG - 112 - (5,1)-(4,2)
+26-Nov-23 13:57:44 - DEBUG - 112 - (5,3)-(4,2)
+26-Nov-23 13:57:44 - DEBUG - 107 - [[(2,4)-(4,2)]]
+26-Nov-23 13:57:44 - DEBUG - 112 - (2,4)-(4,2)
+26-Nov-23 13:57:44 - DEBUG - 107 - [[(2,4)-(4,2)]]
+26-Nov-23 13:57:44 - DEBUG - 112 - (2,4)-(4,2)
+26-Nov-23 13:57:44 - DEBUG - 266 - (2,4)-(4,2)
+26-Nov-23 13:57:44 - DEBUG - 268 - 0.5714285714285714
+26-Nov-23 13:57:44 - DEBUG - 269 - [[(2,4)-(4,2)]]
+26-Nov-23 13:57:44 - DEBUG - 270 - end
+26-Nov-23 13:57:44 - DEBUG - 228 - [[(3,5)-(5,3)]]
+26-Nov-23 13:57:44 - DEBUG - 235 - 1
+26-Nov-23 13:57:44 - DEBUG - 237 - 1
+26-Nov-23 13:57:44 - DEBUG - 107 - [[(3,5)-(5,3)]]
+26-Nov-23 13:57:44 - DEBUG - 112 - (3,5)-(5,3)
+26-Nov-23 13:57:44 - DEBUG - 107 - [[(3,5)-(5,3)]]
+26-Nov-23 13:57:44 - DEBUG - 112 - (3,5)-(5,3)
+26-Nov-23 13:57:44 - DEBUG - 107 - [[(4,4)-(3,3)], [(5,1)-(4,2)], [(6,4)-(5,3)]]
+26-Nov-23 13:57:44 - DEBUG - 112 - (4,4)-(3,3)
+26-Nov-23 13:57:44 - DEBUG - 112 - (5,1)-(4,2)
+26-Nov-23 13:57:44 - DEBUG - 112 - (6,4)-(5,3)
+26-Nov-23 13:57:44 - DEBUG - 107 - [[(3,5)-(5,3)]]
+26-Nov-23 13:57:44 - DEBUG - 112 - (3,5)-(5,3)
+26-Nov-23 13:57:44 - DEBUG - 107 - [[(3,5)-(5,3)]]
+26-Nov-23 13:57:44 - DEBUG - 112 - (3,5)-(5,3)
+26-Nov-23 13:57:44 - DEBUG - 266 - (3,5)-(5,3)
+26-Nov-23 13:57:44 - DEBUG - 268 - 0.5714285714285714
+26-Nov-23 13:57:44 - DEBUG - 269 - [[(3,5)-(5,3)]]
+26-Nov-23 13:57:44 - DEBUG - 270 - end
+26-Nov-23 13:57:44 - DEBUG - 228 - [[(1,3)-(2,4)], [(1,5)-(2,4)], [(2,2)-(3,3)]]
+26-Nov-23 13:57:44 - DEBUG - 235 - 1
+26-Nov-23 13:57:44 - DEBUG - 237 - 1
+26-Nov-23 13:57:44 - DEBUG - 107 - [[(1,3)-(2,4)], [(1,5)-(2,4)], [(2,2)-(3,3)]]
+26-Nov-23 13:57:44 - DEBUG - 112 - (1,3)-(2,4)
+26-Nov-23 13:57:44 - DEBUG - 112 - (1,5)-(2,4)
+26-Nov-23 13:57:44 - DEBUG - 112 - (2,2)-(3,3)
+26-Nov-23 13:57:44 - DEBUG - 107 - [[(1,3)-(2,4)], [(1,5)-(2,4)], [(2,2)-(3,3)]]
+26-Nov-23 13:57:44 - DEBUG - 112 - (1,3)-(2,4)
+26-Nov-23 13:57:44 - DEBUG - 112 - (1,5)-(2,4)
+26-Nov-23 13:57:44 - DEBUG - 112 - (2,2)-(3,3)
+26-Nov-23 13:57:44 - DEBUG - 107 - [[(1,3)-(2,4)], [(1,5)-(2,4)], [(2,2)-(3,3)]]
+26-Nov-23 13:57:44 - DEBUG - 112 - (1,3)-(2,4)
+26-Nov-23 13:57:44 - DEBUG - 112 - (1,5)-(2,4)
+26-Nov-23 13:57:44 - DEBUG - 112 - (2,2)-(3,3)
+26-Nov-23 13:57:44 - DEBUG - 107 - [[(1,3)-(2,4)], [(1,5)-(2,4)], [(2,2)-(3,3)]]
+26-Nov-23 13:57:44 - DEBUG - 112 - (1,3)-(2,4)
+26-Nov-23 13:57:44 - DEBUG - 112 - (1,5)-(2,4)
+26-Nov-23 13:57:44 - DEBUG - 112 - (2,2)-(3,3)
+26-Nov-23 13:57:44 - DEBUG - 107 - [[(4,2)-(3,3)], [(5,5)-(4,4)]]
+26-Nov-23 13:57:44 - DEBUG - 112 - (4,2)-(3,3)
+26-Nov-23 13:57:44 - DEBUG - 112 - (5,5)-(4,4)
+26-Nov-23 13:57:44 - DEBUG - 266 - (1,5)-(2,4)
+26-Nov-23 13:57:44 - DEBUG - 268 - 0.6666666666666666
+26-Nov-23 13:57:44 - DEBUG - 268 - 0.75
+26-Nov-23 13:57:44 - DEBUG - 268 - 0.5
+26-Nov-23 13:57:44 - DEBUG - 269 - [[(1,3)-(2,4)], [(1,5)-(2,4)], [(2,2)-(3,3)]]
+26-Nov-23 13:57:44 - DEBUG - 270 - end
+26-Nov-23 13:57:44 - DEBUG - 228 - [[(2,2)-(3,3)], [(2,4)-(3,3), (2,4)-(3,5)]]
+26-Nov-23 13:57:44 - DEBUG - 235 - 1
+26-Nov-23 13:57:44 - DEBUG - 237 - 1
+26-Nov-23 13:57:44 - DEBUG - 107 - [[(2,2)-(3,3)], [(2,4)-(3,3), (2,4)-(3,5)]]
+26-Nov-23 13:57:44 - DEBUG - 112 - (2,2)-(3,3)
+26-Nov-23 13:57:44 - DEBUG - 112 - (2,4)-(3,3)
+26-Nov-23 13:57:44 - DEBUG - 112 - (2,4)-(3,5)
+26-Nov-23 13:57:44 - DEBUG - 107 - [[(2,2)-(3,3)], [(2,4)-(3,3), (2,4)-(3,5)]]
+26-Nov-23 13:57:44 - DEBUG - 112 - (2,2)-(3,3)
+26-Nov-23 13:57:44 - DEBUG - 112 - (2,4)-(3,3)
+26-Nov-23 13:57:44 - DEBUG - 112 - (2,4)-(3,5)
+26-Nov-23 13:57:44 - DEBUG - 107 - [[(2,2)-(3,3)], [(2,4)-(3,3), (2,4)-(3,5)]]
+26-Nov-23 13:57:44 - DEBUG - 112 - (2,2)-(3,3)
+26-Nov-23 13:57:44 - DEBUG - 112 - (2,4)-(3,3)
+26-Nov-23 13:57:44 - DEBUG - 112 - (2,4)-(3,5)
+26-Nov-23 13:57:44 - DEBUG - 107 - [[(2,2)-(3,3)], [(2,4)-(3,3), (2,4)-(3,5)]]
+26-Nov-23 13:57:44 - DEBUG - 112 - (2,2)-(3,3)
+26-Nov-23 13:57:44 - DEBUG - 112 - (2,4)-(3,3)
+26-Nov-23 13:57:44 - DEBUG - 112 - (2,4)-(3,5)
+26-Nov-23 13:57:44 - DEBUG - 107 - [[(4,2)-(3,3)], [(4,4)-(3,3), (4,4)-(3,5)]]
+26-Nov-23 13:57:44 - DEBUG - 112 - (4,2)-(3,3)
+26-Nov-23 13:57:44 - DEBUG - 112 - (4,4)-(3,3)
+26-Nov-23 13:57:44 - DEBUG - 112 - (4,4)-(3,5)
+26-Nov-23 13:57:44 - DEBUG - 266 - (2,2)-(3,3)
+26-Nov-23 13:57:44 - DEBUG - 268 - 0.5
+26-Nov-23 13:57:44 - DEBUG - 268 - 0.5
+26-Nov-23 13:57:44 - DEBUG - 268 - 0.8571428571428571
+26-Nov-23 13:57:44 - DEBUG - 269 - [[(2,2)-(3,3)], [(2,4)-(3,3), (2,4)-(3,5)]]
+26-Nov-23 13:57:44 - DEBUG - 270 - end
+26-Nov-23 13:57:44 - DEBUG - 228 - [[(0,2)-(1,3)], [(1,1)-(2,2)], [(2,4)-(3,3), (2,4)-(3,5)]]
+26-Nov-23 13:57:44 - DEBUG - 235 - 1
+26-Nov-23 13:57:44 - DEBUG - 237 - 1
+26-Nov-23 13:57:44 - DEBUG - 107 - [[(0,2)-(1,3)], [(1,1)-(2,2)], [(2,4)-(3,3), (2,4)-(3,5)]]
+26-Nov-23 13:57:44 - DEBUG - 112 - (0,2)-(1,3)
+26-Nov-23 13:57:44 - DEBUG - 112 - (1,1)-(2,2)
+26-Nov-23 13:57:44 - DEBUG - 112 - (2,4)-(3,3)
+26-Nov-23 13:57:44 - DEBUG - 112 - (2,4)-(3,5)
+26-Nov-23 13:57:44 - DEBUG - 107 - [[(0,2)-(1,3)], [(1,1)-(2,2)], [(2,4)-(3,3), (2,4)-(3,5)]]
+26-Nov-23 13:57:44 - DEBUG - 112 - (0,2)-(1,3)
+26-Nov-23 13:57:44 - DEBUG - 112 - (1,1)-(2,2)
+26-Nov-23 13:57:44 - DEBUG - 112 - (2,4)-(3,3)
+26-Nov-23 13:57:44 - DEBUG - 112 - (2,4)-(3,5)
+26-Nov-23 13:57:44 - DEBUG - 107 - [[(0,2)-(1,3)], [(1,1)-(2,2)], [(2,4)-(3,3), (2,4)-(3,5)]]
+26-Nov-23 13:57:44 - DEBUG - 112 - (0,2)-(1,3)
+26-Nov-23 13:57:44 - DEBUG - 112 - (1,1)-(2,2)
+26-Nov-23 13:57:44 - DEBUG - 112 - (2,4)-(3,3)
+26-Nov-23 13:57:44 - DEBUG - 112 - (2,4)-(3,5)
+26-Nov-23 13:57:45 - DEBUG - 107 - [[(0,2)-(1,3)], [(1,1)-(2,2)], [(2,4)-(3,3), (2,4)-(3,5)]]
+26-Nov-23 13:57:45 - DEBUG - 112 - (0,2)-(1,3)
+26-Nov-23 13:57:45 - DEBUG - 112 - (1,1)-(2,2)
+26-Nov-23 13:57:45 - DEBUG - 112 - (2,4)-(3,3)
+26-Nov-23 13:57:45 - DEBUG - 112 - (2,4)-(3,5)
+26-Nov-23 13:57:45 - DEBUG - 107 - [[(0,2)-(1,3)], [(1,1)-(2,2)], [(2,4)-(3,3), (2,4)-(3,5)]]
+26-Nov-23 13:57:45 - DEBUG - 112 - (0,2)-(1,3)
+26-Nov-23 13:57:45 - DEBUG - 112 - (1,1)-(2,2)
+26-Nov-23 13:57:45 - DEBUG - 112 - (2,4)-(3,3)
+26-Nov-23 13:57:45 - DEBUG - 112 - (2,4)-(3,5)
+26-Nov-23 13:57:45 - DEBUG - 266 - (0,2)-(1,3)
+26-Nov-23 13:57:45 - DEBUG - 268 - 0.8
+26-Nov-23 13:57:45 - DEBUG - 268 - 0.2
+26-Nov-23 13:57:45 - DEBUG - 268 - 0.2
+26-Nov-23 13:57:45 - DEBUG - 268 - 0.4
+26-Nov-23 13:57:45 - DEBUG - 269 - [[(0,2)-(1,3)], [(1,1)-(2,2)], [(2,4)-(3,3), (2,4)-(3,5)]]
+26-Nov-23 13:57:45 - DEBUG - 270 - end
+26-Nov-23 13:57:45 - DEBUG - 228 - [[(0,0)-(1,1)], [(1,3)-(2,2)], [(2,4)-(3,3), (2,4)-(3,5)]]
+26-Nov-23 13:57:45 - DEBUG - 235 - 1
+26-Nov-23 13:57:45 - DEBUG - 237 - 1
+26-Nov-23 13:57:45 - DEBUG - 107 - [[(0,0)-(1,1)], [(1,3)-(2,2)], [(2,4)-(3,3), (2,4)-(3,5)]]
+26-Nov-23 13:57:45 - DEBUG - 112 - (0,0)-(1,1)
+26-Nov-23 13:57:45 - DEBUG - 112 - (1,3)-(2,2)
+26-Nov-23 13:57:45 - DEBUG - 112 - (2,4)-(3,3)
+26-Nov-23 13:57:45 - DEBUG - 112 - (2,4)-(3,5)
+26-Nov-23 13:57:45 - DEBUG - 107 - [[(0,0)-(1,1)], [(1,3)-(2,2)], [(2,4)-(3,3), (2,4)-(3,5)]]
+26-Nov-23 13:57:45 - DEBUG - 112 - (0,0)-(1,1)
+26-Nov-23 13:57:45 - DEBUG - 112 - (1,3)-(2,2)
+26-Nov-23 13:57:45 - DEBUG - 112 - (2,4)-(3,3)
+26-Nov-23 13:57:45 - DEBUG - 112 - (2,4)-(3,5)
+26-Nov-23 13:57:45 - DEBUG - 107 - [[(0,0)-(1,1)], [(1,3)-(2,2)], [(2,4)-(3,3), (2,4)-(3,5)]]
+26-Nov-23 13:57:45 - DEBUG - 112 - (0,0)-(1,1)
+26-Nov-23 13:57:45 - DEBUG - 112 - (1,3)-(2,2)
+26-Nov-23 13:57:45 - DEBUG - 112 - (2,4)-(3,3)
+26-Nov-23 13:57:45 - DEBUG - 112 - (2,4)-(3,5)
+26-Nov-23 13:57:45 - DEBUG - 107 - [[(0,0)-(1,1)], [(1,3)-(2,2)], [(2,4)-(3,3), (2,4)-(3,5)]]
+26-Nov-23 13:57:45 - DEBUG - 112 - (0,0)-(1,1)
+26-Nov-23 13:57:45 - DEBUG - 112 - (1,3)-(2,2)
+26-Nov-23 13:57:45 - DEBUG - 112 - (2,4)-(3,3)
+26-Nov-23 13:57:45 - DEBUG - 112 - (2,4)-(3,5)
+26-Nov-23 13:57:45 - DEBUG - 107 - [[(0,0)-(1,1)], [(1,3)-(2,2)], [(2,4)-(3,3), (2,4)-(3,5)]]
+26-Nov-23 13:57:45 - DEBUG - 112 - (0,0)-(1,1)
+26-Nov-23 13:57:45 - DEBUG - 112 - (1,3)-(2,2)
+26-Nov-23 13:57:45 - DEBUG - 112 - (2,4)-(3,3)
+26-Nov-23 13:57:45 - DEBUG - 112 - (2,4)-(3,5)
+26-Nov-23 13:57:45 - DEBUG - 266 - (0,0)-(1,1)
+26-Nov-23 13:57:45 - DEBUG - 268 - 0.2
+26-Nov-23 13:57:45 - DEBUG - 268 - 0.2
+26-Nov-23 13:57:45 - DEBUG - 268 - 0.2
+26-Nov-23 13:57:45 - DEBUG - 268 - 0.2
+26-Nov-23 13:57:45 - DEBUG - 269 - [[(0,0)-(1,1)], [(1,3)-(2,2)], [(2,4)-(3,3), (2,4)-(3,5)]]
+26-Nov-23 13:57:45 - DEBUG - 270 - end
+26-Nov-23 13:57:45 - DEBUG - 228 - [[(2,4)-(3,3), (2,4)-(3,5)]]
+26-Nov-23 13:57:45 - DEBUG - 235 - 1
+26-Nov-23 13:57:45 - DEBUG - 237 - 1
+26-Nov-23 13:57:45 - DEBUG - 107 - [[(2,4)-(3,3), (2,4)-(3,5)]]
+26-Nov-23 13:57:45 - DEBUG - 112 - (2,4)-(3,3)
+26-Nov-23 13:57:45 - DEBUG - 112 - (2,4)-(3,5)
+26-Nov-23 13:57:45 - DEBUG - 107 - [[(2,4)-(3,3), (2,4)-(3,5)]]
+26-Nov-23 13:57:45 - DEBUG - 112 - (2,4)-(3,3)
+26-Nov-23 13:57:45 - DEBUG - 112 - (2,4)-(3,5)
+26-Nov-23 13:57:45 - DEBUG - 107 - [[(2,4)-(3,3), (2,4)-(3,5)]]
+26-Nov-23 13:57:45 - DEBUG - 112 - (2,4)-(3,3)
+26-Nov-23 13:57:45 - DEBUG - 112 - (2,4)-(3,5)
+26-Nov-23 13:57:45 - DEBUG - 107 - [[(0,0)-(1,1)], [(0,2)-(1,1), (0,2)-(1,3)], [(3,1)-(2,0), (3,1)-(2,2)], [(4,2)-(3,3)]]
+26-Nov-23 13:57:45 - DEBUG - 112 - (0,0)-(1,1)
+26-Nov-23 13:57:45 - DEBUG - 112 - (0,2)-(1,1)
+26-Nov-23 13:57:45 - DEBUG - 112 - (0,2)-(1,3)
+26-Nov-23 13:57:45 - DEBUG - 112 - (3,1)-(2,0)
+26-Nov-23 13:57:45 - DEBUG - 112 - (3,1)-(2,2)
+26-Nov-23 13:57:45 - DEBUG - 112 - (4,2)-(3,3)
+26-Nov-23 13:57:45 - DEBUG - 107 - [[(0,0)-(1,1)], [(0,2)-(1,1), (0,2)-(1,3)], [(3,1)-(2,0), (3,1)-(2,2)], [(4,2)-(3,3)]]
+26-Nov-23 13:57:45 - DEBUG - 112 - (0,0)-(1,1)
+26-Nov-23 13:57:45 - DEBUG - 112 - (0,2)-(1,1)
+26-Nov-23 13:57:45 - DEBUG - 112 - (0,2)-(1,3)
+26-Nov-23 13:57:45 - DEBUG - 112 - (3,1)-(2,0)
+26-Nov-23 13:57:45 - DEBUG - 112 - (3,1)-(2,2)
+26-Nov-23 13:57:45 - DEBUG - 112 - (4,2)-(3,3)
+26-Nov-23 13:57:45 - DEBUG - 266 - (2,4)-(3,3)
+26-Nov-23 13:57:45 - DEBUG - 268 - 0.7777777777777778
+26-Nov-23 13:57:45 - DEBUG - 268 - 0.7777777777777778
+26-Nov-23 13:57:45 - DEBUG - 269 - [[(2,4)-(3,3), (2,4)-(3,5)]]
+26-Nov-23 13:57:45 - DEBUG - 270 - end
+>>>>>>> main
+=======
 26-Nov-23 14:11:30 - DEBUG - 243 - [[(2,0)-(3,1)], [(2,2)-(3,1), (2,2)-(3,3)], [(2,4)-(3,3), (2,4)-(3,5)]]
 26-Nov-23 14:11:30 - DEBUG - 250 - 1
 26-Nov-23 14:11:30 - DEBUG - 252 - 1
@@ -11052,3 +13483,4 @@
 26-Nov-23 14:13:39 - DEBUG - 281 - Best move is: 
 26-Nov-23 14:13:39 - DEBUG - 282 - (2,0)-(0,2)
 26-Nov-23 14:13:39 - DEBUG - 284 - 0.3333333333333333
+>>>>>>> main
