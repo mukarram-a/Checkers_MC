@@ -1,0 +1,1279 @@
+27-Nov-23 17:08:50 - DEBUG - 251 - 20
+27-Nov-23 17:08:50 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:08:50 - DEBUG - 251 - 19
+27-Nov-23 17:08:50 - DEBUG - 251 - 19
+27-Nov-23 17:08:50 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:08:50 - DEBUG - 251 - 18
+27-Nov-23 17:08:50 - DEBUG - 251 - 18
+27-Nov-23 17:08:50 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:08:50 - DEBUG - 251 - 17
+27-Nov-23 17:08:50 - DEBUG - 251 - 17
+27-Nov-23 17:08:50 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:08:50 - DEBUG - 251 - 16
+27-Nov-23 17:08:50 - DEBUG - 251 - 16
+27-Nov-23 17:08:50 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:08:51 - DEBUG - 251 - 15
+27-Nov-23 17:08:51 - DEBUG - 251 - 15
+27-Nov-23 17:08:51 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:08:51 - DEBUG - 251 - 14
+27-Nov-23 17:08:51 - DEBUG - 251 - 14
+27-Nov-23 17:08:51 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:08:51 - DEBUG - 251 - 13
+27-Nov-23 17:08:51 - DEBUG - 251 - 13
+27-Nov-23 17:08:51 - DEBUG - 251 - 13
+27-Nov-23 17:08:51 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:08:51 - DEBUG - 251 - 12
+27-Nov-23 17:08:51 - DEBUG - 251 - 12
+27-Nov-23 17:08:51 - DEBUG - 251 - 12
+27-Nov-23 17:08:51 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:08:51 - DEBUG - 251 - 11
+27-Nov-23 17:08:51 - DEBUG - 251 - 11
+27-Nov-23 17:08:51 - DEBUG - 251 - 11
+27-Nov-23 17:08:51 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:08:51 - DEBUG - 251 - 10
+27-Nov-23 17:08:51 - DEBUG - 251 - 10
+27-Nov-23 17:08:51 - DEBUG - 251 - 10
+27-Nov-23 17:08:51 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:08:51 - DEBUG - 251 - 9
+27-Nov-23 17:08:51 - DEBUG - 251 - 9
+27-Nov-23 17:08:51 - DEBUG - 251 - 9
+27-Nov-23 17:08:51 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:08:51 - DEBUG - 251 - 8
+27-Nov-23 17:08:51 - DEBUG - 251 - 8
+27-Nov-23 17:08:51 - DEBUG - 251 - 8
+27-Nov-23 17:08:51 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:08:51 - DEBUG - 251 - 7
+27-Nov-23 17:08:51 - DEBUG - 251 - 7
+27-Nov-23 17:08:51 - DEBUG - 251 - 7
+27-Nov-23 17:08:51 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:08:52 - DEBUG - 251 - 6
+27-Nov-23 17:08:52 - DEBUG - 251 - 6
+27-Nov-23 17:08:52 - DEBUG - 251 - 6
+27-Nov-23 17:08:52 - DEBUG - 251 - 6
+27-Nov-23 17:08:52 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:08:52 - DEBUG - 251 - 5
+27-Nov-23 17:08:52 - DEBUG - 251 - 5
+27-Nov-23 17:08:52 - DEBUG - 251 - 5
+27-Nov-23 17:08:52 - DEBUG - 251 - 5
+27-Nov-23 17:08:52 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:08:52 - DEBUG - 251 - 4
+27-Nov-23 17:08:52 - DEBUG - 251 - 4
+27-Nov-23 17:08:52 - DEBUG - 251 - 4
+27-Nov-23 17:08:52 - DEBUG - 251 - 4
+27-Nov-23 17:08:52 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:08:52 - DEBUG - 251 - 3
+27-Nov-23 17:08:52 - DEBUG - 251 - 3
+27-Nov-23 17:08:52 - DEBUG - 251 - 3
+27-Nov-23 17:08:52 - DEBUG - 251 - 3
+27-Nov-23 17:08:52 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:08:52 - DEBUG - 251 - 2
+27-Nov-23 17:08:52 - DEBUG - 251 - 2
+27-Nov-23 17:08:52 - DEBUG - 251 - 2
+27-Nov-23 17:08:52 - DEBUG - 251 - 2
+27-Nov-23 17:08:52 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:08:52 - DEBUG - 251 - 1
+27-Nov-23 17:08:52 - DEBUG - 251 - 1
+27-Nov-23 17:08:52 - DEBUG - 251 - 1
+27-Nov-23 17:08:52 - DEBUG - 251 - 1
+27-Nov-23 17:08:52 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:08:52 - DEBUG - 277 - child info is: 
+27-Nov-23 17:08:52 - DEBUG - 278 - 92
+27-Nov-23 17:08:52 - DEBUG - 279 - (5,1)-(4,0)
+27-Nov-23 17:08:52 - DEBUG - 277 - child info is: 
+27-Nov-23 17:08:52 - DEBUG - 278 - 8
+27-Nov-23 17:08:52 - DEBUG - 279 - (5,1)-(4,2)
+27-Nov-23 17:08:52 - DEBUG - 277 - child info is: 
+27-Nov-23 17:08:52 - DEBUG - 278 - 8
+27-Nov-23 17:08:52 - DEBUG - 279 - (5,3)-(4,2)
+27-Nov-23 17:08:52 - DEBUG - 277 - child info is: 
+27-Nov-23 17:08:52 - DEBUG - 278 - 8
+27-Nov-23 17:08:52 - DEBUG - 279 - (5,3)-(4,4)
+27-Nov-23 17:08:52 - DEBUG - 277 - child info is: 
+27-Nov-23 17:08:52 - DEBUG - 278 - 8
+27-Nov-23 17:08:52 - DEBUG - 279 - (5,5)-(4,4)
+27-Nov-23 17:08:52 - DEBUG - 277 - child info is: 
+27-Nov-23 17:08:52 - DEBUG - 278 - 8
+27-Nov-23 17:08:52 - DEBUG - 279 - (5,5)-(4,6)
+27-Nov-23 17:08:52 - DEBUG - 280 - Best move is: 
+27-Nov-23 17:08:52 - DEBUG - 281 - (5,1)-(4,0)
+27-Nov-23 17:08:53 - DEBUG - 251 - 20
+27-Nov-23 17:08:53 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:08:53 - DEBUG - 251 - 19
+27-Nov-23 17:08:53 - DEBUG - 251 - 19
+27-Nov-23 17:08:53 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:08:53 - DEBUG - 251 - 18
+27-Nov-23 17:08:53 - DEBUG - 251 - 18
+27-Nov-23 17:08:53 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:08:53 - DEBUG - 251 - 17
+27-Nov-23 17:08:53 - DEBUG - 251 - 17
+27-Nov-23 17:08:53 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:08:53 - DEBUG - 251 - 16
+27-Nov-23 17:08:53 - DEBUG - 251 - 16
+27-Nov-23 17:08:53 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:08:59 - DEBUG - 251 - 15
+27-Nov-23 17:08:59 - DEBUG - 251 - 15
+27-Nov-23 17:08:59 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:08:59 - DEBUG - 251 - 14
+27-Nov-23 17:08:59 - DEBUG - 251 - 14
+27-Nov-23 17:08:59 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:08:59 - DEBUG - 251 - 13
+27-Nov-23 17:08:59 - DEBUG - 251 - 13
+27-Nov-23 17:08:59 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:08:59 - DEBUG - 251 - 12
+27-Nov-23 17:08:59 - DEBUG - 251 - 12
+27-Nov-23 17:08:59 - DEBUG - 251 - 12
+27-Nov-23 17:08:59 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:00 - DEBUG - 251 - 11
+27-Nov-23 17:09:00 - DEBUG - 251 - 11
+27-Nov-23 17:09:00 - DEBUG - 251 - 11
+27-Nov-23 17:09:00 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:00 - DEBUG - 251 - 10
+27-Nov-23 17:09:00 - DEBUG - 251 - 10
+27-Nov-23 17:09:00 - DEBUG - 251 - 10
+27-Nov-23 17:09:00 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:00 - DEBUG - 251 - 9
+27-Nov-23 17:09:00 - DEBUG - 251 - 9
+27-Nov-23 17:09:00 - DEBUG - 251 - 9
+27-Nov-23 17:09:00 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:00 - DEBUG - 251 - 8
+27-Nov-23 17:09:00 - DEBUG - 251 - 8
+27-Nov-23 17:09:00 - DEBUG - 251 - 8
+27-Nov-23 17:09:00 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:00 - DEBUG - 251 - 7
+27-Nov-23 17:09:00 - DEBUG - 251 - 7
+27-Nov-23 17:09:00 - DEBUG - 251 - 7
+27-Nov-23 17:09:00 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:00 - DEBUG - 251 - 6
+27-Nov-23 17:09:00 - DEBUG - 251 - 6
+27-Nov-23 17:09:00 - DEBUG - 251 - 6
+27-Nov-23 17:09:00 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:00 - DEBUG - 251 - 5
+27-Nov-23 17:09:00 - DEBUG - 251 - 5
+27-Nov-23 17:09:00 - DEBUG - 251 - 5
+27-Nov-23 17:09:00 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:00 - DEBUG - 251 - 4
+27-Nov-23 17:09:00 - DEBUG - 251 - 4
+27-Nov-23 17:09:00 - DEBUG - 251 - 4
+27-Nov-23 17:09:00 - DEBUG - 251 - 4
+27-Nov-23 17:09:00 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:00 - DEBUG - 251 - 3
+27-Nov-23 17:09:00 - DEBUG - 251 - 3
+27-Nov-23 17:09:00 - DEBUG - 251 - 3
+27-Nov-23 17:09:00 - DEBUG - 251 - 3
+27-Nov-23 17:09:00 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:01 - DEBUG - 251 - 2
+27-Nov-23 17:09:01 - DEBUG - 251 - 2
+27-Nov-23 17:09:01 - DEBUG - 251 - 2
+27-Nov-23 17:09:01 - DEBUG - 251 - 2
+27-Nov-23 17:09:01 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:01 - DEBUG - 251 - 1
+27-Nov-23 17:09:01 - DEBUG - 251 - 1
+27-Nov-23 17:09:01 - DEBUG - 251 - 1
+27-Nov-23 17:09:01 - DEBUG - 251 - 1
+27-Nov-23 17:09:01 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:01 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:01 - DEBUG - 278 - 9
+27-Nov-23 17:09:01 - DEBUG - 279 - (4,0)-(3,1)
+27-Nov-23 17:09:01 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:01 - DEBUG - 278 - 97
+27-Nov-23 17:09:01 - DEBUG - 279 - (5,3)-(4,2)
+27-Nov-23 17:09:01 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:01 - DEBUG - 278 - 9
+27-Nov-23 17:09:01 - DEBUG - 279 - (5,3)-(4,4)
+27-Nov-23 17:09:01 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:01 - DEBUG - 278 - 9
+27-Nov-23 17:09:01 - DEBUG - 279 - (5,5)-(4,4)
+27-Nov-23 17:09:01 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:01 - DEBUG - 278 - 9
+27-Nov-23 17:09:01 - DEBUG - 279 - (5,5)-(4,6)
+27-Nov-23 17:09:01 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:01 - DEBUG - 278 - 9
+27-Nov-23 17:09:01 - DEBUG - 279 - (6,0)-(5,1)
+27-Nov-23 17:09:01 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:01 - DEBUG - 278 - 9
+27-Nov-23 17:09:01 - DEBUG - 279 - (6,2)-(5,1)
+27-Nov-23 17:09:01 - DEBUG - 280 - Best move is: 
+27-Nov-23 17:09:01 - DEBUG - 281 - (5,3)-(4,2)
+27-Nov-23 17:09:01 - DEBUG - 251 - 20
+27-Nov-23 17:09:01 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:01 - DEBUG - 251 - 19
+27-Nov-23 17:09:01 - DEBUG - 251 - 19
+27-Nov-23 17:09:01 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:01 - DEBUG - 251 - 18
+27-Nov-23 17:09:01 - DEBUG - 251 - 18
+27-Nov-23 17:09:01 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:02 - DEBUG - 251 - 17
+27-Nov-23 17:09:02 - DEBUG - 251 - 17
+27-Nov-23 17:09:02 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:02 - DEBUG - 251 - 16
+27-Nov-23 17:09:02 - DEBUG - 251 - 16
+27-Nov-23 17:09:02 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:02 - DEBUG - 251 - 15
+27-Nov-23 17:09:02 - DEBUG - 251 - 15
+27-Nov-23 17:09:02 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:02 - DEBUG - 251 - 14
+27-Nov-23 17:09:02 - DEBUG - 251 - 14
+27-Nov-23 17:09:02 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:02 - DEBUG - 251 - 13
+27-Nov-23 17:09:02 - DEBUG - 251 - 13
+27-Nov-23 17:09:02 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:02 - DEBUG - 251 - 12
+27-Nov-23 17:09:02 - DEBUG - 251 - 12
+27-Nov-23 17:09:02 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:02 - DEBUG - 251 - 11
+27-Nov-23 17:09:02 - DEBUG - 251 - 11
+27-Nov-23 17:09:02 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:02 - DEBUG - 251 - 10
+27-Nov-23 17:09:02 - DEBUG - 251 - 10
+27-Nov-23 17:09:02 - DEBUG - 251 - 10
+27-Nov-23 17:09:02 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:02 - DEBUG - 251 - 9
+27-Nov-23 17:09:02 - DEBUG - 251 - 9
+27-Nov-23 17:09:02 - DEBUG - 251 - 9
+27-Nov-23 17:09:02 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:03 - DEBUG - 251 - 8
+27-Nov-23 17:09:03 - DEBUG - 251 - 8
+27-Nov-23 17:09:03 - DEBUG - 251 - 8
+27-Nov-23 17:09:03 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:03 - DEBUG - 251 - 7
+27-Nov-23 17:09:03 - DEBUG - 251 - 7
+27-Nov-23 17:09:03 - DEBUG - 251 - 7
+27-Nov-23 17:09:03 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:03 - DEBUG - 251 - 6
+27-Nov-23 17:09:03 - DEBUG - 251 - 6
+27-Nov-23 17:09:03 - DEBUG - 251 - 6
+27-Nov-23 17:09:03 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:03 - DEBUG - 251 - 5
+27-Nov-23 17:09:03 - DEBUG - 251 - 5
+27-Nov-23 17:09:03 - DEBUG - 251 - 5
+27-Nov-23 17:09:03 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:03 - DEBUG - 251 - 4
+27-Nov-23 17:09:03 - DEBUG - 251 - 4
+27-Nov-23 17:09:03 - DEBUG - 251 - 4
+27-Nov-23 17:09:03 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:03 - DEBUG - 251 - 3
+27-Nov-23 17:09:03 - DEBUG - 251 - 3
+27-Nov-23 17:09:03 - DEBUG - 251 - 3
+27-Nov-23 17:09:03 - DEBUG - 251 - 3
+27-Nov-23 17:09:03 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:03 - DEBUG - 251 - 2
+27-Nov-23 17:09:03 - DEBUG - 251 - 2
+27-Nov-23 17:09:03 - DEBUG - 251 - 2
+27-Nov-23 17:09:03 - DEBUG - 251 - 2
+27-Nov-23 17:09:03 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:04 - DEBUG - 251 - 1
+27-Nov-23 17:09:04 - DEBUG - 251 - 1
+27-Nov-23 17:09:04 - DEBUG - 251 - 1
+27-Nov-23 17:09:04 - DEBUG - 251 - 1
+27-Nov-23 17:09:04 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:04 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:04 - DEBUG - 278 - 8
+27-Nov-23 17:09:04 - DEBUG - 279 - (4,0)-(3,1)
+27-Nov-23 17:09:04 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:04 - DEBUG - 278 - 8
+27-Nov-23 17:09:04 - DEBUG - 279 - (4,2)-(3,1)
+27-Nov-23 17:09:04 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:04 - DEBUG - 278 - 92
+27-Nov-23 17:09:04 - DEBUG - 279 - (4,2)-(3,3)
+27-Nov-23 17:09:04 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:04 - DEBUG - 278 - 8
+27-Nov-23 17:09:04 - DEBUG - 279 - (5,5)-(4,4)
+27-Nov-23 17:09:04 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:04 - DEBUG - 278 - 8
+27-Nov-23 17:09:04 - DEBUG - 279 - (5,5)-(4,6)
+27-Nov-23 17:09:04 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:04 - DEBUG - 278 - 8
+27-Nov-23 17:09:04 - DEBUG - 279 - (6,0)-(5,1)
+27-Nov-23 17:09:04 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:04 - DEBUG - 278 - 8
+27-Nov-23 17:09:04 - DEBUG - 279 - (6,2)-(5,1)
+27-Nov-23 17:09:04 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:04 - DEBUG - 278 - 8
+27-Nov-23 17:09:04 - DEBUG - 279 - (6,2)-(5,3)
+27-Nov-23 17:09:04 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:04 - DEBUG - 278 - 8
+27-Nov-23 17:09:04 - DEBUG - 279 - (6,4)-(5,3)
+27-Nov-23 17:09:04 - DEBUG - 280 - Best move is: 
+27-Nov-23 17:09:04 - DEBUG - 281 - (4,2)-(3,3)
+27-Nov-23 17:09:04 - DEBUG - 251 - 20
+27-Nov-23 17:09:04 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:04 - DEBUG - 251 - 19
+27-Nov-23 17:09:04 - DEBUG - 251 - 19
+27-Nov-23 17:09:04 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:04 - DEBUG - 251 - 18
+27-Nov-23 17:09:04 - DEBUG - 251 - 18
+27-Nov-23 17:09:04 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:04 - DEBUG - 251 - 17
+27-Nov-23 17:09:04 - DEBUG - 251 - 17
+27-Nov-23 17:09:04 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:04 - DEBUG - 251 - 16
+27-Nov-23 17:09:04 - DEBUG - 251 - 16
+27-Nov-23 17:09:04 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:04 - DEBUG - 251 - 15
+27-Nov-23 17:09:04 - DEBUG - 251 - 15
+27-Nov-23 17:09:04 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:04 - DEBUG - 251 - 14
+27-Nov-23 17:09:04 - DEBUG - 251 - 14
+27-Nov-23 17:09:04 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:04 - DEBUG - 251 - 13
+27-Nov-23 17:09:04 - DEBUG - 251 - 13
+27-Nov-23 17:09:04 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:04 - DEBUG - 251 - 12
+27-Nov-23 17:09:04 - DEBUG - 251 - 12
+27-Nov-23 17:09:04 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:04 - DEBUG - 251 - 11
+27-Nov-23 17:09:04 - DEBUG - 251 - 11
+27-Nov-23 17:09:04 - DEBUG - 251 - 11
+27-Nov-23 17:09:04 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:04 - DEBUG - 251 - 10
+27-Nov-23 17:09:04 - DEBUG - 251 - 10
+27-Nov-23 17:09:04 - DEBUG - 251 - 10
+27-Nov-23 17:09:04 - DEBUG - 251 - 10
+27-Nov-23 17:09:04 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:04 - DEBUG - 251 - 9
+27-Nov-23 17:09:04 - DEBUG - 251 - 9
+27-Nov-23 17:09:04 - DEBUG - 251 - 9
+27-Nov-23 17:09:04 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:05 - DEBUG - 251 - 8
+27-Nov-23 17:09:05 - DEBUG - 251 - 8
+27-Nov-23 17:09:05 - DEBUG - 251 - 8
+27-Nov-23 17:09:05 - DEBUG - 251 - 8
+27-Nov-23 17:09:05 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:05 - DEBUG - 251 - 7
+27-Nov-23 17:09:05 - DEBUG - 251 - 7
+27-Nov-23 17:09:05 - DEBUG - 251 - 7
+27-Nov-23 17:09:05 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:05 - DEBUG - 251 - 6
+27-Nov-23 17:09:05 - DEBUG - 251 - 6
+27-Nov-23 17:09:05 - DEBUG - 251 - 6
+27-Nov-23 17:09:05 - DEBUG - 251 - 6
+27-Nov-23 17:09:05 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:05 - DEBUG - 251 - 5
+27-Nov-23 17:09:05 - DEBUG - 251 - 5
+27-Nov-23 17:09:05 - DEBUG - 251 - 5
+27-Nov-23 17:09:05 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:05 - DEBUG - 251 - 4
+27-Nov-23 17:09:05 - DEBUG - 251 - 4
+27-Nov-23 17:09:05 - DEBUG - 251 - 4
+27-Nov-23 17:09:05 - DEBUG - 251 - 4
+27-Nov-23 17:09:05 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:05 - DEBUG - 251 - 3
+27-Nov-23 17:09:05 - DEBUG - 251 - 3
+27-Nov-23 17:09:05 - DEBUG - 251 - 3
+27-Nov-23 17:09:05 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:05 - DEBUG - 251 - 2
+27-Nov-23 17:09:05 - DEBUG - 251 - 2
+27-Nov-23 17:09:05 - DEBUG - 251 - 2
+27-Nov-23 17:09:05 - DEBUG - 251 - 2
+27-Nov-23 17:09:05 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:05 - DEBUG - 251 - 1
+27-Nov-23 17:09:05 - DEBUG - 251 - 1
+27-Nov-23 17:09:05 - DEBUG - 251 - 1
+27-Nov-23 17:09:05 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:05 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:05 - DEBUG - 278 - 11
+27-Nov-23 17:09:05 - DEBUG - 279 - (3,3)-(2,2)
+27-Nov-23 17:09:05 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:05 - DEBUG - 278 - 11
+27-Nov-23 17:09:05 - DEBUG - 279 - (4,0)-(3,1)
+27-Nov-23 17:09:05 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:05 - DEBUG - 278 - 11
+27-Nov-23 17:09:05 - DEBUG - 279 - (5,5)-(4,4)
+27-Nov-23 17:09:05 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:05 - DEBUG - 278 - 11
+27-Nov-23 17:09:05 - DEBUG - 279 - (5,5)-(4,6)
+27-Nov-23 17:09:05 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:05 - DEBUG - 278 - 11
+27-Nov-23 17:09:05 - DEBUG - 279 - (6,0)-(5,1)
+27-Nov-23 17:09:05 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:05 - DEBUG - 278 - 10
+27-Nov-23 17:09:05 - DEBUG - 279 - (6,2)-(5,1)
+27-Nov-23 17:09:05 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:05 - DEBUG - 278 - 2
+27-Nov-23 17:09:05 - DEBUG - 279 - (6,2)-(5,3)
+27-Nov-23 17:09:05 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:05 - DEBUG - 278 - 2
+27-Nov-23 17:09:05 - DEBUG - 279 - (6,4)-(5,3)
+27-Nov-23 17:09:05 - DEBUG - 280 - Best move is: 
+27-Nov-23 17:09:05 - DEBUG - 281 - (3,3)-(2,2)
+27-Nov-23 17:09:05 - DEBUG - 251 - 20
+27-Nov-23 17:09:05 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:05 - DEBUG - 251 - 19
+27-Nov-23 17:09:05 - DEBUG - 251 - 19
+27-Nov-23 17:09:05 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:06 - DEBUG - 251 - 18
+27-Nov-23 17:09:06 - DEBUG - 251 - 18
+27-Nov-23 17:09:06 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:06 - DEBUG - 251 - 17
+27-Nov-23 17:09:06 - DEBUG - 251 - 17
+27-Nov-23 17:09:06 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:06 - DEBUG - 251 - 16
+27-Nov-23 17:09:06 - DEBUG - 251 - 16
+27-Nov-23 17:09:06 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:06 - DEBUG - 251 - 15
+27-Nov-23 17:09:06 - DEBUG - 251 - 15
+27-Nov-23 17:09:06 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:06 - DEBUG - 251 - 14
+27-Nov-23 17:09:06 - DEBUG - 251 - 14
+27-Nov-23 17:09:06 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:06 - DEBUG - 251 - 13
+27-Nov-23 17:09:06 - DEBUG - 251 - 13
+27-Nov-23 17:09:06 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:06 - DEBUG - 251 - 12
+27-Nov-23 17:09:06 - DEBUG - 251 - 12
+27-Nov-23 17:09:06 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:06 - DEBUG - 251 - 11
+27-Nov-23 17:09:06 - DEBUG - 251 - 11
+27-Nov-23 17:09:06 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:07 - DEBUG - 251 - 10
+27-Nov-23 17:09:07 - DEBUG - 251 - 10
+27-Nov-23 17:09:07 - DEBUG - 251 - 10
+27-Nov-23 17:09:07 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:07 - DEBUG - 251 - 9
+27-Nov-23 17:09:07 - DEBUG - 251 - 9
+27-Nov-23 17:09:07 - DEBUG - 251 - 9
+27-Nov-23 17:09:07 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:07 - DEBUG - 251 - 8
+27-Nov-23 17:09:07 - DEBUG - 251 - 8
+27-Nov-23 17:09:07 - DEBUG - 251 - 8
+27-Nov-23 17:09:07 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:07 - DEBUG - 251 - 7
+27-Nov-23 17:09:07 - DEBUG - 251 - 7
+27-Nov-23 17:09:07 - DEBUG - 251 - 7
+27-Nov-23 17:09:07 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:07 - DEBUG - 251 - 6
+27-Nov-23 17:09:07 - DEBUG - 251 - 6
+27-Nov-23 17:09:07 - DEBUG - 251 - 6
+27-Nov-23 17:09:07 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:07 - DEBUG - 251 - 5
+27-Nov-23 17:09:07 - DEBUG - 251 - 5
+27-Nov-23 17:09:07 - DEBUG - 251 - 5
+27-Nov-23 17:09:07 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:07 - DEBUG - 251 - 4
+27-Nov-23 17:09:07 - DEBUG - 251 - 4
+27-Nov-23 17:09:07 - DEBUG - 251 - 4
+27-Nov-23 17:09:07 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:08 - DEBUG - 251 - 3
+27-Nov-23 17:09:08 - DEBUG - 251 - 3
+27-Nov-23 17:09:08 - DEBUG - 251 - 3
+27-Nov-23 17:09:08 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:08 - DEBUG - 251 - 2
+27-Nov-23 17:09:08 - DEBUG - 251 - 2
+27-Nov-23 17:09:08 - DEBUG - 251 - 2
+27-Nov-23 17:09:08 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:08 - DEBUG - 251 - 1
+27-Nov-23 17:09:08 - DEBUG - 251 - 1
+27-Nov-23 17:09:08 - DEBUG - 251 - 1
+27-Nov-23 17:09:08 - DEBUG - 251 - 1
+27-Nov-23 17:09:08 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:08 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:08 - DEBUG - 278 - 10
+27-Nov-23 17:09:08 - DEBUG - 279 - (2,2)-(1,1)
+27-Nov-23 17:09:08 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:08 - DEBUG - 278 - 10
+27-Nov-23 17:09:08 - DEBUG - 279 - (2,2)-(1,3)
+27-Nov-23 17:09:08 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:08 - DEBUG - 278 - 10
+27-Nov-23 17:09:08 - DEBUG - 279 - (4,0)-(3,1)
+27-Nov-23 17:09:08 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:08 - DEBUG - 278 - 10
+27-Nov-23 17:09:08 - DEBUG - 279 - (5,5)-(4,4)
+27-Nov-23 17:09:08 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:08 - DEBUG - 278 - 10
+27-Nov-23 17:09:08 - DEBUG - 279 - (5,5)-(4,6)
+27-Nov-23 17:09:08 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:08 - DEBUG - 278 - 10
+27-Nov-23 17:09:08 - DEBUG - 279 - (6,0)-(5,1)
+27-Nov-23 17:09:08 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:08 - DEBUG - 278 - 100
+27-Nov-23 17:09:08 - DEBUG - 279 - (6,2)-(5,1)
+27-Nov-23 17:09:08 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:08 - DEBUG - 278 - 10
+27-Nov-23 17:09:08 - DEBUG - 279 - (6,2)-(5,3)
+27-Nov-23 17:09:08 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:08 - DEBUG - 278 - 10
+27-Nov-23 17:09:08 - DEBUG - 279 - (6,4)-(5,3)
+27-Nov-23 17:09:08 - DEBUG - 280 - Best move is: 
+27-Nov-23 17:09:08 - DEBUG - 281 - (6,2)-(5,1)
+27-Nov-23 17:09:08 - DEBUG - 251 - 20
+27-Nov-23 17:09:08 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:08 - DEBUG - 251 - 19
+27-Nov-23 17:09:08 - DEBUG - 251 - 19
+27-Nov-23 17:09:08 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:09 - DEBUG - 251 - 18
+27-Nov-23 17:09:09 - DEBUG - 251 - 18
+27-Nov-23 17:09:09 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:09 - DEBUG - 251 - 17
+27-Nov-23 17:09:09 - DEBUG - 251 - 17
+27-Nov-23 17:09:09 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:09 - DEBUG - 251 - 16
+27-Nov-23 17:09:09 - DEBUG - 251 - 16
+27-Nov-23 17:09:09 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:09 - DEBUG - 251 - 15
+27-Nov-23 17:09:09 - DEBUG - 251 - 15
+27-Nov-23 17:09:09 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:09 - DEBUG - 251 - 14
+27-Nov-23 17:09:09 - DEBUG - 251 - 14
+27-Nov-23 17:09:09 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:09 - DEBUG - 251 - 13
+27-Nov-23 17:09:09 - DEBUG - 251 - 13
+27-Nov-23 17:09:09 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:10 - DEBUG - 251 - 12
+27-Nov-23 17:09:10 - DEBUG - 251 - 12
+27-Nov-23 17:09:10 - DEBUG - 251 - 12
+27-Nov-23 17:09:10 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:10 - DEBUG - 251 - 11
+27-Nov-23 17:09:10 - DEBUG - 251 - 11
+27-Nov-23 17:09:10 - DEBUG - 251 - 11
+27-Nov-23 17:09:10 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:10 - DEBUG - 251 - 10
+27-Nov-23 17:09:10 - DEBUG - 251 - 10
+27-Nov-23 17:09:10 - DEBUG - 251 - 10
+27-Nov-23 17:09:10 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:10 - DEBUG - 251 - 9
+27-Nov-23 17:09:10 - DEBUG - 251 - 9
+27-Nov-23 17:09:10 - DEBUG - 251 - 9
+27-Nov-23 17:09:10 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:10 - DEBUG - 251 - 8
+27-Nov-23 17:09:10 - DEBUG - 251 - 8
+27-Nov-23 17:09:10 - DEBUG - 251 - 8
+27-Nov-23 17:09:10 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:10 - DEBUG - 251 - 7
+27-Nov-23 17:09:10 - DEBUG - 251 - 7
+27-Nov-23 17:09:10 - DEBUG - 251 - 7
+27-Nov-23 17:09:10 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:10 - DEBUG - 251 - 6
+27-Nov-23 17:09:10 - DEBUG - 251 - 6
+27-Nov-23 17:09:10 - DEBUG - 251 - 6
+27-Nov-23 17:09:10 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:10 - DEBUG - 251 - 5
+27-Nov-23 17:09:10 - DEBUG - 251 - 5
+27-Nov-23 17:09:10 - DEBUG - 251 - 5
+27-Nov-23 17:09:10 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:10 - DEBUG - 251 - 4
+27-Nov-23 17:09:10 - DEBUG - 251 - 4
+27-Nov-23 17:09:10 - DEBUG - 251 - 4
+27-Nov-23 17:09:10 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:11 - DEBUG - 251 - 3
+27-Nov-23 17:09:11 - DEBUG - 251 - 3
+27-Nov-23 17:09:11 - DEBUG - 251 - 3
+27-Nov-23 17:09:11 - DEBUG - 251 - 3
+27-Nov-23 17:09:11 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:11 - DEBUG - 251 - 2
+27-Nov-23 17:09:11 - DEBUG - 251 - 2
+27-Nov-23 17:09:11 - DEBUG - 251 - 2
+27-Nov-23 17:09:11 - DEBUG - 251 - 2
+27-Nov-23 17:09:11 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:11 - DEBUG - 251 - 1
+27-Nov-23 17:09:11 - DEBUG - 251 - 1
+27-Nov-23 17:09:11 - DEBUG - 251 - 1
+27-Nov-23 17:09:11 - DEBUG - 251 - 1
+27-Nov-23 17:09:11 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:11 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:11 - DEBUG - 278 - 10
+27-Nov-23 17:09:11 - DEBUG - 279 - (2,2)-(1,1)
+27-Nov-23 17:09:11 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:11 - DEBUG - 278 - 10
+27-Nov-23 17:09:11 - DEBUG - 279 - (2,2)-(1,3)
+27-Nov-23 17:09:11 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:11 - DEBUG - 278 - 10
+27-Nov-23 17:09:11 - DEBUG - 279 - (4,0)-(3,1)
+27-Nov-23 17:09:11 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:11 - DEBUG - 278 - 10
+27-Nov-23 17:09:11 - DEBUG - 279 - (5,1)-(4,2)
+27-Nov-23 17:09:11 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:11 - DEBUG - 278 - 10
+27-Nov-23 17:09:11 - DEBUG - 279 - (5,5)-(4,4)
+27-Nov-23 17:09:11 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:11 - DEBUG - 278 - 100
+27-Nov-23 17:09:11 - DEBUG - 279 - (5,5)-(4,6)
+27-Nov-23 17:09:11 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:11 - DEBUG - 278 - 10
+27-Nov-23 17:09:11 - DEBUG - 279 - (6,4)-(5,3)
+27-Nov-23 17:09:11 - DEBUG - 280 - Best move is: 
+27-Nov-23 17:09:11 - DEBUG - 281 - (5,5)-(4,6)
+27-Nov-23 17:09:11 - DEBUG - 251 - 20
+27-Nov-23 17:09:11 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:11 - DEBUG - 251 - 19
+27-Nov-23 17:09:11 - DEBUG - 251 - 19
+27-Nov-23 17:09:11 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:12 - DEBUG - 251 - 18
+27-Nov-23 17:09:12 - DEBUG - 251 - 18
+27-Nov-23 17:09:12 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:12 - DEBUG - 251 - 17
+27-Nov-23 17:09:12 - DEBUG - 251 - 17
+27-Nov-23 17:09:12 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:12 - DEBUG - 251 - 16
+27-Nov-23 17:09:12 - DEBUG - 251 - 16
+27-Nov-23 17:09:12 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:12 - DEBUG - 251 - 15
+27-Nov-23 17:09:12 - DEBUG - 251 - 15
+27-Nov-23 17:09:12 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:12 - DEBUG - 251 - 14
+27-Nov-23 17:09:12 - DEBUG - 251 - 14
+27-Nov-23 17:09:12 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:12 - DEBUG - 251 - 13
+27-Nov-23 17:09:12 - DEBUG - 251 - 13
+27-Nov-23 17:09:12 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:12 - DEBUG - 251 - 12
+27-Nov-23 17:09:12 - DEBUG - 251 - 12
+27-Nov-23 17:09:12 - DEBUG - 251 - 12
+27-Nov-23 17:09:12 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:12 - DEBUG - 251 - 11
+27-Nov-23 17:09:12 - DEBUG - 251 - 11
+27-Nov-23 17:09:12 - DEBUG - 251 - 11
+27-Nov-23 17:09:12 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:12 - DEBUG - 251 - 10
+27-Nov-23 17:09:12 - DEBUG - 251 - 10
+27-Nov-23 17:09:12 - DEBUG - 251 - 10
+27-Nov-23 17:09:12 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:12 - DEBUG - 251 - 9
+27-Nov-23 17:09:12 - DEBUG - 251 - 9
+27-Nov-23 17:09:12 - DEBUG - 251 - 9
+27-Nov-23 17:09:12 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:12 - DEBUG - 251 - 8
+27-Nov-23 17:09:12 - DEBUG - 251 - 8
+27-Nov-23 17:09:12 - DEBUG - 251 - 8
+27-Nov-23 17:09:12 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:13 - DEBUG - 251 - 7
+27-Nov-23 17:09:13 - DEBUG - 251 - 7
+27-Nov-23 17:09:13 - DEBUG - 251 - 7
+27-Nov-23 17:09:13 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:13 - DEBUG - 251 - 6
+27-Nov-23 17:09:13 - DEBUG - 251 - 6
+27-Nov-23 17:09:13 - DEBUG - 251 - 6
+27-Nov-23 17:09:13 - DEBUG - 251 - 6
+27-Nov-23 17:09:13 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:13 - DEBUG - 251 - 5
+27-Nov-23 17:09:13 - DEBUG - 251 - 5
+27-Nov-23 17:09:13 - DEBUG - 251 - 5
+27-Nov-23 17:09:13 - DEBUG - 251 - 5
+27-Nov-23 17:09:13 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:13 - DEBUG - 251 - 4
+27-Nov-23 17:09:13 - DEBUG - 251 - 4
+27-Nov-23 17:09:13 - DEBUG - 251 - 4
+27-Nov-23 17:09:13 - DEBUG - 251 - 4
+27-Nov-23 17:09:13 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:13 - DEBUG - 251 - 3
+27-Nov-23 17:09:13 - DEBUG - 251 - 3
+27-Nov-23 17:09:13 - DEBUG - 251 - 3
+27-Nov-23 17:09:13 - DEBUG - 251 - 3
+27-Nov-23 17:09:13 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:13 - DEBUG - 251 - 2
+27-Nov-23 17:09:13 - DEBUG - 251 - 2
+27-Nov-23 17:09:13 - DEBUG - 251 - 2
+27-Nov-23 17:09:13 - DEBUG - 251 - 2
+27-Nov-23 17:09:13 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:13 - DEBUG - 251 - 1
+27-Nov-23 17:09:13 - DEBUG - 251 - 1
+27-Nov-23 17:09:13 - DEBUG - 251 - 1
+27-Nov-23 17:09:13 - DEBUG - 251 - 1
+27-Nov-23 17:09:13 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:13 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:13 - DEBUG - 278 - 85
+27-Nov-23 17:09:13 - DEBUG - 279 - (2,2)-(1,1)
+27-Nov-23 17:09:13 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:13 - DEBUG - 278 - 7
+27-Nov-23 17:09:13 - DEBUG - 279 - (2,2)-(1,3)
+27-Nov-23 17:09:13 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:13 - DEBUG - 278 - 7
+27-Nov-23 17:09:13 - DEBUG - 279 - (4,0)-(3,1)
+27-Nov-23 17:09:13 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:13 - DEBUG - 278 - 7
+27-Nov-23 17:09:13 - DEBUG - 279 - (5,1)-(4,2)
+27-Nov-23 17:09:13 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:13 - DEBUG - 278 - 7
+27-Nov-23 17:09:13 - DEBUG - 279 - (6,4)-(5,3)
+27-Nov-23 17:09:13 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:13 - DEBUG - 278 - 7
+27-Nov-23 17:09:13 - DEBUG - 279 - (6,4)-(5,5)
+27-Nov-23 17:09:13 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:13 - DEBUG - 278 - 7
+27-Nov-23 17:09:13 - DEBUG - 279 - (6,6)-(5,5)
+27-Nov-23 17:09:13 - DEBUG - 280 - Best move is: 
+27-Nov-23 17:09:13 - DEBUG - 281 - (2,2)-(1,1)
+27-Nov-23 17:09:13 - DEBUG - 251 - 20
+27-Nov-23 17:09:13 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:13 - DEBUG - 251 - 19
+27-Nov-23 17:09:13 - DEBUG - 251 - 19
+27-Nov-23 17:09:13 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:14 - DEBUG - 251 - 18
+27-Nov-23 17:09:14 - DEBUG - 251 - 18
+27-Nov-23 17:09:14 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:14 - DEBUG - 251 - 17
+27-Nov-23 17:09:14 - DEBUG - 251 - 17
+27-Nov-23 17:09:14 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:14 - DEBUG - 251 - 16
+27-Nov-23 17:09:14 - DEBUG - 251 - 16
+27-Nov-23 17:09:14 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:14 - DEBUG - 251 - 15
+27-Nov-23 17:09:14 - DEBUG - 251 - 15
+27-Nov-23 17:09:14 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:14 - DEBUG - 251 - 14
+27-Nov-23 17:09:14 - DEBUG - 251 - 14
+27-Nov-23 17:09:14 - DEBUG - 251 - 14
+27-Nov-23 17:09:14 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:14 - DEBUG - 251 - 13
+27-Nov-23 17:09:14 - DEBUG - 251 - 13
+27-Nov-23 17:09:14 - DEBUG - 251 - 13
+27-Nov-23 17:09:14 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:14 - DEBUG - 251 - 12
+27-Nov-23 17:09:14 - DEBUG - 251 - 12
+27-Nov-23 17:09:14 - DEBUG - 251 - 12
+27-Nov-23 17:09:14 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:14 - DEBUG - 251 - 11
+27-Nov-23 17:09:14 - DEBUG - 251 - 11
+27-Nov-23 17:09:14 - DEBUG - 251 - 11
+27-Nov-23 17:09:14 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:14 - DEBUG - 251 - 10
+27-Nov-23 17:09:14 - DEBUG - 251 - 10
+27-Nov-23 17:09:14 - DEBUG - 251 - 10
+27-Nov-23 17:09:14 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:14 - DEBUG - 251 - 9
+27-Nov-23 17:09:14 - DEBUG - 251 - 9
+27-Nov-23 17:09:14 - DEBUG - 251 - 9
+27-Nov-23 17:09:14 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:14 - DEBUG - 251 - 8
+27-Nov-23 17:09:14 - DEBUG - 251 - 8
+27-Nov-23 17:09:14 - DEBUG - 251 - 8
+27-Nov-23 17:09:14 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:14 - DEBUG - 251 - 7
+27-Nov-23 17:09:14 - DEBUG - 251 - 7
+27-Nov-23 17:09:14 - DEBUG - 251 - 7
+27-Nov-23 17:09:14 - DEBUG - 251 - 7
+27-Nov-23 17:09:14 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:15 - DEBUG - 251 - 6
+27-Nov-23 17:09:15 - DEBUG - 251 - 6
+27-Nov-23 17:09:15 - DEBUG - 251 - 6
+27-Nov-23 17:09:15 - DEBUG - 251 - 6
+27-Nov-23 17:09:15 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:15 - DEBUG - 251 - 5
+27-Nov-23 17:09:15 - DEBUG - 251 - 5
+27-Nov-23 17:09:15 - DEBUG - 251 - 5
+27-Nov-23 17:09:15 - DEBUG - 251 - 5
+27-Nov-23 17:09:15 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:15 - DEBUG - 251 - 4
+27-Nov-23 17:09:15 - DEBUG - 251 - 4
+27-Nov-23 17:09:15 - DEBUG - 251 - 4
+27-Nov-23 17:09:15 - DEBUG - 251 - 4
+27-Nov-23 17:09:15 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:15 - DEBUG - 251 - 3
+27-Nov-23 17:09:15 - DEBUG - 251 - 3
+27-Nov-23 17:09:15 - DEBUG - 251 - 3
+27-Nov-23 17:09:15 - DEBUG - 251 - 3
+27-Nov-23 17:09:15 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:15 - DEBUG - 251 - 2
+27-Nov-23 17:09:15 - DEBUG - 251 - 2
+27-Nov-23 17:09:15 - DEBUG - 251 - 2
+27-Nov-23 17:09:15 - DEBUG - 251 - 2
+27-Nov-23 17:09:15 - DEBUG - 251 - 2
+27-Nov-23 17:09:15 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:15 - DEBUG - 251 - 1
+27-Nov-23 17:09:15 - DEBUG - 251 - 1
+27-Nov-23 17:09:15 - DEBUG - 251 - 1
+27-Nov-23 17:09:15 - DEBUG - 251 - 1
+27-Nov-23 17:09:15 - DEBUG - 251 - 1
+27-Nov-23 17:09:15 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:15 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:15 - DEBUG - 278 - 88
+27-Nov-23 17:09:15 - DEBUG - 279 - (4,0)-(3,1)
+27-Nov-23 17:09:15 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:15 - DEBUG - 278 - 8
+27-Nov-23 17:09:15 - DEBUG - 279 - (5,1)-(4,2)
+27-Nov-23 17:09:15 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:15 - DEBUG - 278 - 8
+27-Nov-23 17:09:15 - DEBUG - 279 - (6,4)-(5,3)
+27-Nov-23 17:09:15 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:15 - DEBUG - 278 - 8
+27-Nov-23 17:09:15 - DEBUG - 279 - (6,4)-(5,5)
+27-Nov-23 17:09:15 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:15 - DEBUG - 278 - 8
+27-Nov-23 17:09:15 - DEBUG - 279 - (6,6)-(5,5)
+27-Nov-23 17:09:15 - DEBUG - 280 - Best move is: 
+27-Nov-23 17:09:15 - DEBUG - 281 - (4,0)-(3,1)
+27-Nov-23 17:09:15 - DEBUG - 251 - 20
+27-Nov-23 17:09:15 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:15 - DEBUG - 251 - 19
+27-Nov-23 17:09:15 - DEBUG - 251 - 19
+27-Nov-23 17:09:15 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:15 - DEBUG - 251 - 18
+27-Nov-23 17:09:15 - DEBUG - 251 - 18
+27-Nov-23 17:09:15 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:15 - DEBUG - 251 - 17
+27-Nov-23 17:09:15 - DEBUG - 251 - 17
+27-Nov-23 17:09:15 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:15 - DEBUG - 251 - 16
+27-Nov-23 17:09:15 - DEBUG - 251 - 16
+27-Nov-23 17:09:15 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:15 - DEBUG - 251 - 15
+27-Nov-23 17:09:15 - DEBUG - 251 - 15
+27-Nov-23 17:09:15 - DEBUG - 251 - 15
+27-Nov-23 17:09:15 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:16 - DEBUG - 251 - 14
+27-Nov-23 17:09:16 - DEBUG - 251 - 14
+27-Nov-23 17:09:16 - DEBUG - 251 - 14
+27-Nov-23 17:09:16 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:16 - DEBUG - 251 - 13
+27-Nov-23 17:09:16 - DEBUG - 251 - 13
+27-Nov-23 17:09:16 - DEBUG - 251 - 13
+27-Nov-23 17:09:16 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:16 - DEBUG - 251 - 12
+27-Nov-23 17:09:16 - DEBUG - 251 - 12
+27-Nov-23 17:09:16 - DEBUG - 251 - 12
+27-Nov-23 17:09:16 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:16 - DEBUG - 251 - 11
+27-Nov-23 17:09:16 - DEBUG - 251 - 11
+27-Nov-23 17:09:16 - DEBUG - 251 - 11
+27-Nov-23 17:09:16 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:16 - DEBUG - 251 - 10
+27-Nov-23 17:09:16 - DEBUG - 251 - 10
+27-Nov-23 17:09:16 - DEBUG - 251 - 10
+27-Nov-23 17:09:16 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:16 - DEBUG - 251 - 9
+27-Nov-23 17:09:16 - DEBUG - 251 - 9
+27-Nov-23 17:09:16 - DEBUG - 251 - 9
+27-Nov-23 17:09:16 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:16 - DEBUG - 251 - 8
+27-Nov-23 17:09:16 - DEBUG - 251 - 8
+27-Nov-23 17:09:16 - DEBUG - 251 - 8
+27-Nov-23 17:09:16 - DEBUG - 251 - 8
+27-Nov-23 17:09:16 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:16 - DEBUG - 251 - 7
+27-Nov-23 17:09:16 - DEBUG - 251 - 7
+27-Nov-23 17:09:16 - DEBUG - 251 - 7
+27-Nov-23 17:09:16 - DEBUG - 251 - 7
+27-Nov-23 17:09:16 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:16 - DEBUG - 251 - 6
+27-Nov-23 17:09:16 - DEBUG - 251 - 6
+27-Nov-23 17:09:16 - DEBUG - 251 - 6
+27-Nov-23 17:09:16 - DEBUG - 251 - 6
+27-Nov-23 17:09:16 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:16 - DEBUG - 251 - 5
+27-Nov-23 17:09:16 - DEBUG - 251 - 5
+27-Nov-23 17:09:16 - DEBUG - 251 - 5
+27-Nov-23 17:09:16 - DEBUG - 251 - 5
+27-Nov-23 17:09:16 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:16 - DEBUG - 251 - 4
+27-Nov-23 17:09:16 - DEBUG - 251 - 4
+27-Nov-23 17:09:16 - DEBUG - 251 - 4
+27-Nov-23 17:09:16 - DEBUG - 251 - 4
+27-Nov-23 17:09:16 - DEBUG - 251 - 4
+27-Nov-23 17:09:16 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:16 - DEBUG - 251 - 3
+27-Nov-23 17:09:16 - DEBUG - 251 - 3
+27-Nov-23 17:09:16 - DEBUG - 251 - 3
+27-Nov-23 17:09:16 - DEBUG - 251 - 3
+27-Nov-23 17:09:16 - DEBUG - 251 - 3
+27-Nov-23 17:09:16 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:16 - DEBUG - 251 - 2
+27-Nov-23 17:09:16 - DEBUG - 251 - 2
+27-Nov-23 17:09:16 - DEBUG - 251 - 2
+27-Nov-23 17:09:16 - DEBUG - 251 - 2
+27-Nov-23 17:09:16 - DEBUG - 251 - 2
+27-Nov-23 17:09:16 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:16 - DEBUG - 251 - 1
+27-Nov-23 17:09:16 - DEBUG - 251 - 1
+27-Nov-23 17:09:16 - DEBUG - 251 - 1
+27-Nov-23 17:09:16 - DEBUG - 251 - 1
+27-Nov-23 17:09:16 - DEBUG - 251 - 1
+27-Nov-23 17:09:16 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:16 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:16 - DEBUG - 278 - 80
+27-Nov-23 17:09:16 - DEBUG - 279 - (6,0)-(5,1)
+27-Nov-23 17:09:16 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:16 - DEBUG - 278 - 8
+27-Nov-23 17:09:16 - DEBUG - 279 - (6,4)-(5,3)
+27-Nov-23 17:09:16 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:16 - DEBUG - 278 - 8
+27-Nov-23 17:09:16 - DEBUG - 279 - (6,4)-(5,5)
+27-Nov-23 17:09:16 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:16 - DEBUG - 278 - 8
+27-Nov-23 17:09:16 - DEBUG - 279 - (6,6)-(5,5)
+27-Nov-23 17:09:16 - DEBUG - 280 - Best move is: 
+27-Nov-23 17:09:16 - DEBUG - 281 - (6,0)-(5,1)
+27-Nov-23 17:09:16 - DEBUG - 251 - 20
+27-Nov-23 17:09:16 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:16 - DEBUG - 251 - 19
+27-Nov-23 17:09:16 - DEBUG - 251 - 19
+27-Nov-23 17:09:16 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:17 - DEBUG - 251 - 18
+27-Nov-23 17:09:17 - DEBUG - 251 - 18
+27-Nov-23 17:09:17 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:17 - DEBUG - 251 - 17
+27-Nov-23 17:09:17 - DEBUG - 251 - 17
+27-Nov-23 17:09:17 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:17 - DEBUG - 251 - 16
+27-Nov-23 17:09:17 - DEBUG - 251 - 16
+27-Nov-23 17:09:17 - DEBUG - 251 - 16
+27-Nov-23 17:09:17 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:17 - DEBUG - 251 - 15
+27-Nov-23 17:09:17 - DEBUG - 251 - 15
+27-Nov-23 17:09:17 - DEBUG - 251 - 15
+27-Nov-23 17:09:17 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:17 - DEBUG - 251 - 14
+27-Nov-23 17:09:17 - DEBUG - 251 - 14
+27-Nov-23 17:09:17 - DEBUG - 251 - 14
+27-Nov-23 17:09:17 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:17 - DEBUG - 251 - 13
+27-Nov-23 17:09:17 - DEBUG - 251 - 13
+27-Nov-23 17:09:17 - DEBUG - 251 - 13
+27-Nov-23 17:09:17 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:17 - DEBUG - 251 - 12
+27-Nov-23 17:09:17 - DEBUG - 251 - 12
+27-Nov-23 17:09:17 - DEBUG - 251 - 12
+27-Nov-23 17:09:17 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:17 - DEBUG - 251 - 11
+27-Nov-23 17:09:17 - DEBUG - 251 - 11
+27-Nov-23 17:09:17 - DEBUG - 251 - 11
+27-Nov-23 17:09:17 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:17 - DEBUG - 251 - 10
+27-Nov-23 17:09:17 - DEBUG - 251 - 10
+27-Nov-23 17:09:17 - DEBUG - 251 - 10
+27-Nov-23 17:09:17 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:17 - DEBUG - 251 - 9
+27-Nov-23 17:09:17 - DEBUG - 251 - 9
+27-Nov-23 17:09:17 - DEBUG - 251 - 9
+27-Nov-23 17:09:17 - DEBUG - 251 - 9
+27-Nov-23 17:09:17 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:17 - DEBUG - 251 - 8
+27-Nov-23 17:09:17 - DEBUG - 251 - 8
+27-Nov-23 17:09:17 - DEBUG - 251 - 8
+27-Nov-23 17:09:17 - DEBUG - 251 - 8
+27-Nov-23 17:09:17 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:17 - DEBUG - 251 - 7
+27-Nov-23 17:09:17 - DEBUG - 251 - 7
+27-Nov-23 17:09:17 - DEBUG - 251 - 7
+27-Nov-23 17:09:17 - DEBUG - 251 - 7
+27-Nov-23 17:09:17 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:17 - DEBUG - 251 - 6
+27-Nov-23 17:09:17 - DEBUG - 251 - 6
+27-Nov-23 17:09:17 - DEBUG - 251 - 6
+27-Nov-23 17:09:17 - DEBUG - 251 - 6
+27-Nov-23 17:09:17 - DEBUG - 251 - 6
+27-Nov-23 17:09:17 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:17 - DEBUG - 251 - 5
+27-Nov-23 17:09:17 - DEBUG - 251 - 5
+27-Nov-23 17:09:17 - DEBUG - 251 - 5
+27-Nov-23 17:09:17 - DEBUG - 251 - 5
+27-Nov-23 17:09:17 - DEBUG - 251 - 5
+27-Nov-23 17:09:17 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:17 - DEBUG - 251 - 4
+27-Nov-23 17:09:17 - DEBUG - 251 - 4
+27-Nov-23 17:09:17 - DEBUG - 251 - 4
+27-Nov-23 17:09:17 - DEBUG - 251 - 4
+27-Nov-23 17:09:17 - DEBUG - 251 - 4
+27-Nov-23 17:09:17 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:17 - DEBUG - 251 - 3
+27-Nov-23 17:09:17 - DEBUG - 251 - 3
+27-Nov-23 17:09:17 - DEBUG - 251 - 3
+27-Nov-23 17:09:17 - DEBUG - 251 - 3
+27-Nov-23 17:09:17 - DEBUG - 251 - 3
+27-Nov-23 17:09:17 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:17 - DEBUG - 251 - 2
+27-Nov-23 17:09:17 - DEBUG - 251 - 2
+27-Nov-23 17:09:17 - DEBUG - 251 - 2
+27-Nov-23 17:09:17 - DEBUG - 251 - 2
+27-Nov-23 17:09:17 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:17 - DEBUG - 251 - 1
+27-Nov-23 17:09:17 - DEBUG - 251 - 1
+27-Nov-23 17:09:17 - DEBUG - 251 - 1
+27-Nov-23 17:09:17 - DEBUG - 251 - 1
+27-Nov-23 17:09:17 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:17 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:17 - DEBUG - 278 - 8
+27-Nov-23 17:09:17 - DEBUG - 279 - (6,4)-(5,3)
+27-Nov-23 17:09:17 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:17 - DEBUG - 278 - 8
+27-Nov-23 17:09:17 - DEBUG - 279 - (6,4)-(5,5)
+27-Nov-23 17:09:17 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:17 - DEBUG - 278 - 76
+27-Nov-23 17:09:17 - DEBUG - 279 - (6,6)-(5,5)
+27-Nov-23 17:09:17 - DEBUG - 280 - Best move is: 
+27-Nov-23 17:09:17 - DEBUG - 281 - (6,6)-(5,5)
+27-Nov-23 17:09:17 - DEBUG - 251 - 20
+27-Nov-23 17:09:17 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:17 - DEBUG - 251 - 19
+27-Nov-23 17:09:17 - DEBUG - 251 - 19
+27-Nov-23 17:09:17 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:17 - DEBUG - 251 - 18
+27-Nov-23 17:09:17 - DEBUG - 251 - 18
+27-Nov-23 17:09:17 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 17
+27-Nov-23 17:09:18 - DEBUG - 251 - 17
+27-Nov-23 17:09:18 - DEBUG - 251 - 17
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 16
+27-Nov-23 17:09:18 - DEBUG - 251 - 16
+27-Nov-23 17:09:18 - DEBUG - 251 - 16
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 15
+27-Nov-23 17:09:18 - DEBUG - 251 - 15
+27-Nov-23 17:09:18 - DEBUG - 251 - 15
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 14
+27-Nov-23 17:09:18 - DEBUG - 251 - 14
+27-Nov-23 17:09:18 - DEBUG - 251 - 14
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 13
+27-Nov-23 17:09:18 - DEBUG - 251 - 13
+27-Nov-23 17:09:18 - DEBUG - 251 - 13
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 12
+27-Nov-23 17:09:18 - DEBUG - 251 - 12
+27-Nov-23 17:09:18 - DEBUG - 251 - 12
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 11
+27-Nov-23 17:09:18 - DEBUG - 251 - 11
+27-Nov-23 17:09:18 - DEBUG - 251 - 11
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 10
+27-Nov-23 17:09:18 - DEBUG - 251 - 10
+27-Nov-23 17:09:18 - DEBUG - 251 - 10
+27-Nov-23 17:09:18 - DEBUG - 251 - 10
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 9
+27-Nov-23 17:09:18 - DEBUG - 251 - 9
+27-Nov-23 17:09:18 - DEBUG - 251 - 9
+27-Nov-23 17:09:18 - DEBUG - 251 - 9
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 8
+27-Nov-23 17:09:18 - DEBUG - 251 - 8
+27-Nov-23 17:09:18 - DEBUG - 251 - 8
+27-Nov-23 17:09:18 - DEBUG - 251 - 8
+27-Nov-23 17:09:18 - DEBUG - 251 - 8
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 7
+27-Nov-23 17:09:18 - DEBUG - 251 - 7
+27-Nov-23 17:09:18 - DEBUG - 251 - 7
+27-Nov-23 17:09:18 - DEBUG - 251 - 7
+27-Nov-23 17:09:18 - DEBUG - 251 - 7
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 6
+27-Nov-23 17:09:18 - DEBUG - 251 - 6
+27-Nov-23 17:09:18 - DEBUG - 251 - 6
+27-Nov-23 17:09:18 - DEBUG - 251 - 6
+27-Nov-23 17:09:18 - DEBUG - 251 - 6
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 5
+27-Nov-23 17:09:18 - DEBUG - 251 - 5
+27-Nov-23 17:09:18 - DEBUG - 251 - 5
+27-Nov-23 17:09:18 - DEBUG - 251 - 5
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 4
+27-Nov-23 17:09:18 - DEBUG - 251 - 4
+27-Nov-23 17:09:18 - DEBUG - 251 - 4
+27-Nov-23 17:09:18 - DEBUG - 251 - 4
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 3
+27-Nov-23 17:09:18 - DEBUG - 251 - 3
+27-Nov-23 17:09:18 - DEBUG - 251 - 3
+27-Nov-23 17:09:18 - DEBUG - 251 - 3
+27-Nov-23 17:09:18 - DEBUG - 251 - 3
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 2
+27-Nov-23 17:09:18 - DEBUG - 251 - 2
+27-Nov-23 17:09:18 - DEBUG - 251 - 2
+27-Nov-23 17:09:18 - DEBUG - 251 - 2
+27-Nov-23 17:09:18 - DEBUG - 251 - 2
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 1
+27-Nov-23 17:09:18 - DEBUG - 251 - 1
+27-Nov-23 17:09:18 - DEBUG - 251 - 1
+27-Nov-23 17:09:18 - DEBUG - 251 - 1
+27-Nov-23 17:09:18 - DEBUG - 251 - 1
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:18 - DEBUG - 278 - 62
+27-Nov-23 17:09:18 - DEBUG - 279 - (5,5)-(4,4)
+27-Nov-23 17:09:18 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:18 - DEBUG - 278 - 8
+27-Nov-23 17:09:18 - DEBUG - 279 - (6,4)-(5,3)
+27-Nov-23 17:09:18 - DEBUG - 280 - Best move is: 
+27-Nov-23 17:09:18 - DEBUG - 281 - (5,5)-(4,4)
+27-Nov-23 17:09:18 - DEBUG - 251 - 20
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 19
+27-Nov-23 17:09:18 - DEBUG - 251 - 19
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 18
+27-Nov-23 17:09:18 - DEBUG - 251 - 18
+27-Nov-23 17:09:18 - DEBUG - 251 - 18
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 17
+27-Nov-23 17:09:18 - DEBUG - 251 - 17
+27-Nov-23 17:09:18 - DEBUG - 251 - 17
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 16
+27-Nov-23 17:09:18 - DEBUG - 251 - 16
+27-Nov-23 17:09:18 - DEBUG - 251 - 16
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 15
+27-Nov-23 17:09:18 - DEBUG - 251 - 15
+27-Nov-23 17:09:18 - DEBUG - 251 - 15
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 14
+27-Nov-23 17:09:18 - DEBUG - 251 - 14
+27-Nov-23 17:09:18 - DEBUG - 251 - 14
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 13
+27-Nov-23 17:09:18 - DEBUG - 251 - 13
+27-Nov-23 17:09:18 - DEBUG - 251 - 13
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 12
+27-Nov-23 17:09:18 - DEBUG - 251 - 12
+27-Nov-23 17:09:18 - DEBUG - 251 - 12
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 11
+27-Nov-23 17:09:18 - DEBUG - 251 - 11
+27-Nov-23 17:09:18 - DEBUG - 251 - 11
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 10
+27-Nov-23 17:09:18 - DEBUG - 251 - 10
+27-Nov-23 17:09:18 - DEBUG - 251 - 10
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 9
+27-Nov-23 17:09:18 - DEBUG - 251 - 9
+27-Nov-23 17:09:18 - DEBUG - 251 - 9
+27-Nov-23 17:09:18 - DEBUG - 251 - 9
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 8
+27-Nov-23 17:09:18 - DEBUG - 251 - 8
+27-Nov-23 17:09:18 - DEBUG - 251 - 8
+27-Nov-23 17:09:18 - DEBUG - 251 - 8
+27-Nov-23 17:09:18 - DEBUG - 251 - 8
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 7
+27-Nov-23 17:09:18 - DEBUG - 251 - 7
+27-Nov-23 17:09:18 - DEBUG - 251 - 7
+27-Nov-23 17:09:18 - DEBUG - 251 - 7
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 6
+27-Nov-23 17:09:18 - DEBUG - 251 - 6
+27-Nov-23 17:09:18 - DEBUG - 251 - 6
+27-Nov-23 17:09:18 - DEBUG - 251 - 6
+27-Nov-23 17:09:18 - DEBUG - 251 - 6
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 5
+27-Nov-23 17:09:18 - DEBUG - 251 - 5
+27-Nov-23 17:09:18 - DEBUG - 251 - 5
+27-Nov-23 17:09:18 - DEBUG - 251 - 5
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 4
+27-Nov-23 17:09:18 - DEBUG - 251 - 4
+27-Nov-23 17:09:18 - DEBUG - 251 - 4
+27-Nov-23 17:09:18 - DEBUG - 251 - 4
+27-Nov-23 17:09:18 - DEBUG - 251 - 4
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 3
+27-Nov-23 17:09:18 - DEBUG - 251 - 3
+27-Nov-23 17:09:18 - DEBUG - 251 - 3
+27-Nov-23 17:09:18 - DEBUG - 251 - 3
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 2
+27-Nov-23 17:09:18 - DEBUG - 251 - 2
+27-Nov-23 17:09:18 - DEBUG - 251 - 2
+27-Nov-23 17:09:18 - DEBUG - 251 - 2
+27-Nov-23 17:09:18 - DEBUG - 251 - 2
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 1
+27-Nov-23 17:09:18 - DEBUG - 251 - 1
+27-Nov-23 17:09:18 - DEBUG - 251 - 1
+27-Nov-23 17:09:18 - DEBUG - 251 - 1
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:18 - DEBUG - 278 - 68
+27-Nov-23 17:09:18 - DEBUG - 279 - (6,4)-(4,2)
+27-Nov-23 17:09:18 - DEBUG - 280 - Best move is: 
+27-Nov-23 17:09:18 - DEBUG - 281 - (6,4)-(4,2)
+27-Nov-23 17:09:18 - DEBUG - 251 - 20
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 19
+27-Nov-23 17:09:18 - DEBUG - 251 - 19
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 18
+27-Nov-23 17:09:18 - DEBUG - 251 - 18
+27-Nov-23 17:09:18 - DEBUG - 251 - 18
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 17
+27-Nov-23 17:09:18 - DEBUG - 251 - 17
+27-Nov-23 17:09:18 - DEBUG - 251 - 17
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 16
+27-Nov-23 17:09:18 - DEBUG - 251 - 16
+27-Nov-23 17:09:18 - DEBUG - 251 - 16
+27-Nov-23 17:09:18 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:18 - DEBUG - 251 - 15
+27-Nov-23 17:09:18 - DEBUG - 251 - 15
+27-Nov-23 17:09:18 - DEBUG - 251 - 15
+27-Nov-23 17:09:19 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:19 - DEBUG - 251 - 14
+27-Nov-23 17:09:19 - DEBUG - 251 - 14
+27-Nov-23 17:09:19 - DEBUG - 251 - 14
+27-Nov-23 17:09:19 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:19 - DEBUG - 251 - 13
+27-Nov-23 17:09:19 - DEBUG - 251 - 13
+27-Nov-23 17:09:19 - DEBUG - 251 - 13
+27-Nov-23 17:09:19 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:19 - DEBUG - 251 - 12
+27-Nov-23 17:09:19 - DEBUG - 251 - 12
+27-Nov-23 17:09:19 - DEBUG - 251 - 12
+27-Nov-23 17:09:19 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:19 - DEBUG - 251 - 11
+27-Nov-23 17:09:19 - DEBUG - 251 - 11
+27-Nov-23 17:09:19 - DEBUG - 251 - 11
+27-Nov-23 17:09:19 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:19 - DEBUG - 251 - 10
+27-Nov-23 17:09:19 - DEBUG - 251 - 10
+27-Nov-23 17:09:19 - DEBUG - 251 - 10
+27-Nov-23 17:09:19 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:19 - DEBUG - 251 - 9
+27-Nov-23 17:09:19 - DEBUG - 251 - 9
+27-Nov-23 17:09:19 - DEBUG - 251 - 9
+27-Nov-23 17:09:19 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:19 - DEBUG - 251 - 8
+27-Nov-23 17:09:19 - DEBUG - 251 - 8
+27-Nov-23 17:09:19 - DEBUG - 251 - 8
+27-Nov-23 17:09:19 - DEBUG - 251 - 8
+27-Nov-23 17:09:19 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:19 - DEBUG - 251 - 7
+27-Nov-23 17:09:19 - DEBUG - 251 - 7
+27-Nov-23 17:09:19 - DEBUG - 251 - 7
+27-Nov-23 17:09:19 - DEBUG - 251 - 7
+27-Nov-23 17:09:19 - DEBUG - 251 - 7
+27-Nov-23 17:09:19 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:19 - DEBUG - 251 - 6
+27-Nov-23 17:09:19 - DEBUG - 251 - 6
+27-Nov-23 17:09:19 - DEBUG - 251 - 6
+27-Nov-23 17:09:19 - DEBUG - 251 - 6
+27-Nov-23 17:09:19 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:19 - DEBUG - 251 - 5
+27-Nov-23 17:09:19 - DEBUG - 251 - 5
+27-Nov-23 17:09:19 - DEBUG - 251 - 5
+27-Nov-23 17:09:19 - DEBUG - 251 - 5
+27-Nov-23 17:09:19 - DEBUG - 251 - 5
+27-Nov-23 17:09:19 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:19 - DEBUG - 251 - 4
+27-Nov-23 17:09:19 - DEBUG - 251 - 4
+27-Nov-23 17:09:19 - DEBUG - 251 - 4
+27-Nov-23 17:09:19 - DEBUG - 251 - 4
+27-Nov-23 17:09:19 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:19 - DEBUG - 251 - 3
+27-Nov-23 17:09:19 - DEBUG - 251 - 3
+27-Nov-23 17:09:19 - DEBUG - 251 - 3
+27-Nov-23 17:09:19 - DEBUG - 251 - 3
+27-Nov-23 17:09:19 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:19 - DEBUG - 251 - 2
+27-Nov-23 17:09:19 - DEBUG - 251 - 2
+27-Nov-23 17:09:19 - DEBUG - 251 - 2
+27-Nov-23 17:09:19 - DEBUG - 251 - 2
+27-Nov-23 17:09:19 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:19 - DEBUG - 251 - 1
+27-Nov-23 17:09:19 - DEBUG - 251 - 1
+27-Nov-23 17:09:19 - DEBUG - 251 - 1
+27-Nov-23 17:09:19 - DEBUG - 251 - 1
+27-Nov-23 17:09:19 - DEBUG - 253 - Inside if statement
+27-Nov-23 17:09:19 - DEBUG - 277 - child info is: 
+27-Nov-23 17:09:19 - DEBUG - 278 - 83
+27-Nov-23 17:09:19 - DEBUG - 279 - (4,6)-(3,5)
+27-Nov-23 17:09:19 - DEBUG - 280 - Best move is: 
+27-Nov-23 17:09:19 - DEBUG - 281 - (4,6)-(3,5)

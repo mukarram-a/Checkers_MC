@@ -23,7 +23,10 @@ for i in range(TOTAL_GAMES):
     print(i + 1, "of", TOTAL_GAMES, end = ": ")
 
     # Runs against "RandomAI.py"
-    result = subprocess.run(['python3', os.path.join(current_directory, "AI_Runner.py"), "8", "8", "3", "l", os.path.join(new_directory, "src", "checkers-python", "main.py"), os.path.join(current_directory, "Sample_AIs", "Random_AI", "main.py")], stdout=subprocess.PIPE)
+
+
+    result = subprocess.run(['python3', os.path.join(current_directory, "AI_Runner.py"), "4", "5", "1", "l", os.path.join(new_directory, "src", "checkers-python", "main.py"), os.path.join(current_directory, "Sample_AIs", "Poor_AI", "main.py")], stdout=subprocess.PIPE)
+
    
     # Get output from original AI code (the code prints out which player wins).
     console_output = str(result.stdout)
