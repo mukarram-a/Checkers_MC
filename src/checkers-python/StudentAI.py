@@ -102,7 +102,9 @@ class Node():
             switch *= -1
 
     def expand(self):
-        moves = self.board.get_all_possible_moves(self.color)
+        #logging.debug(self.opponent[self.color])
+        moves = self.board.get_all_possible_moves(self.opponent[self.color])
+        #logging.debug(moves)
         #logging.debug(moves)
         for piece in moves: 
             #logging.debug(piece)
@@ -110,7 +112,7 @@ class Node():
                 #logging.debug(move)
                 #logging.debug("self.color is ", self.color)
                 #logging.debug(move)
-                self.board.make_move(move, self.color)
+                self.board.make_move(move, self.opponent[self.color])
                 child = Node(self, move, self.board, self.opponent[self.color])
                 self.children.append(child)
                 self.board.undo()
@@ -242,7 +244,10 @@ class Node():
             return None
 
         # Get the UTC score for all children
+        logging.debug("Inside return Best Move")
         for child in self.children:
+            logging.debug("child move: ")
+            logging.debug(child.move)
             score = child.totalSimulations
             if score > max_score:
                 max_child = child
@@ -263,7 +268,7 @@ class StudentAI():
         self.color = ''
         self.opponent = {1:2,2:1}
         self.color = 2
-        self.root_node = Node(None, None, self.board, self.opponent[self.color])
+        self.root_node = None
 
         
         '''if self.color == 1:
@@ -283,6 +288,10 @@ class StudentAI():
             self.board.make_move(move, self.opponent[self.color])
         else:
             self.color = 1
+
+        if self.root_node == None: 
+            self.root_node = Node(None, None, self.board, self.opponent[self.color])
+
         #moves = self.board.get_all_possible_moves(self.color)
         #index = randint(0,len(moves)-1)
         #inner_index =  randint(0,len(moves[index])-1)
@@ -302,6 +311,10 @@ class StudentAI():
             if child.move.seq == move.seq:
                 self.root_node = child 
                 logging.debug("Reassigning root node")
+                logging.debug(self.root_node.move)
+                logging.debug(self.root_node.board.get_all_possible_moves(self.color))
+                logging.debug([child.move for child in self.root_node.children])
+                break
                     
         
 
@@ -372,4 +385,5 @@ class StudentAI():
         logging.debug(self.root_node.board.get_all_possible_moves(self.color))
         self.board.make_move(bestchild.move,self.color)
         self.root_node = bestchild
+        logging.debug(bestchild.board.get_all_possible_moves(self.opponent[self.color]))
         return bestchild.move
