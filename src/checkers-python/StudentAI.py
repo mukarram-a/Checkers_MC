@@ -7,9 +7,9 @@ from copy import deepcopy
 #The following part should be completed by students.
 #Students can modify anything except the class name and exisiting functions and varibles.
 
-# logging.basicConfig(level = logging.DEBUG, filename = "log.log", filemode = "w",
-#                     format = "%(asctime)s - %(levelname)s - %(lineno)d - %(message)s",
-#                     datefmt="%d-%b-%y %H:%M:%S")
+logging.basicConfig(level = logging.DEBUG, filename = "log.log", filemode = "w",
+                    format = "%(asctime)s - %(levelname)s - %(lineno)d - %(message)s",
+                    datefmt="%d-%b-%y %H:%M:%S")
 
 EXPLORATION = math.sqrt(2)
 root = None
@@ -92,11 +92,9 @@ class Node():
             
             if switch == 1:
                 curr_node.parent.wins += self.totalSimulations - self.wins
-
             elif switch == -1:
                 curr_node.parent.wins += self.wins
-            
-            curr_node.parent.totalSimulations += 1
+            curr_node.parent.totalSimulations += self.totalSimulations
 
             #logging.debug("Parent Node Wins = " + str(curr_node.parent.wins) + ". Parent Node Simulations = " + str(curr_node.parent.totalSimulations))
 
@@ -104,15 +102,17 @@ class Node():
             switch *= -1
 
     def expand(self):
-        moves = self.board.get_all_possible_moves(self.color)
-        # logging.debug(moves)
+        #logging.debug(self.opponent[self.color])
+        moves = self.board.get_all_possible_moves(self.opponent[self.color])
+        #logging.debug(moves)
+        #logging.debug(moves)
         for piece in moves: 
             #logging.debug(piece)
             for move in piece:
                 #logging.debug(move)
                 #logging.debug("self.color is ", self.color)
                 #logging.debug(move)
-                self.board.make_move(move, self.color)
+                self.board.make_move(move, self.opponent[self.color])
                 child = Node(self, move, self.board, self.opponent[self.color])
                 self.children.append(child)
                 self.board.undo()
@@ -163,8 +163,8 @@ class Node():
                 #logging.debug(simulate_board.get_all_possible_moves(self.opponent[self.color]))
                 self.totalSimulations += 1
                 self.wins += 1
-                # logging.debug("Self Win. Self Color is " + str(self.parent.color))
-                # logging.debug("win is " + str(win))
+                #logging.debug("Color is " + str(color))
+                #logging.debug("win is " + str(win))
                 #logging.debug("win")
                 break
             elif win == self.opponent[self.parent.color]:  # Condition where enemy wins
@@ -172,8 +172,8 @@ class Node():
                 #logging.debug(simulate_board.get_all_possible_moves(self.color))
                 #logging.debug("Opponent's moves: ")
                 #logging.debug(simulate_board.get_all_possible_moves(self.opponent[self.color]))
-                # logging.debug("Enemy Win. Self Color is " + str(self.parent.color))
-                # logging.debug("win is " + str(win))
+                #logging.debug("Color is " + str(color))
+                #logging.debug("win is " + str(win))
                 #logging.debug("lose")
                 self.totalSimulations += 1
                 break  
@@ -189,31 +189,28 @@ class Node():
             move = moves[index][inner_index]
             simulate_board.make_move(move,color)
             #logging.debug("Color is " + str(color) + "and made move: ")
-            # logging.debug("Move is " + str(move))
+            #logging.debug(move)
             count += 1
 
-            # orig_stdout = sys.stdout
-            # f = open('out.txt', 'a')
-            # sys.stdout = f
+            #orig_stdout = sys.stdout
+            #f = open('out.txt', 'a')
+            #sys.stdout = f
 
-            # simulate_board.show_board()
+            #simulate_board.show_board()
 
-            # sys.stdout = orig_stdout
-            # f.close()
+            #sys.stdout = orig_stdout
+            #f.close()
             
             if color == 1:
                 color = 2
             else:
                 color = 1
 
-        # exit()
+        #exit()
         
         
         #for i in range(count): 
         #    self.board.undo()
-
-        # logging.debug("Undo done")
-        
 
 
 
@@ -227,7 +224,7 @@ class Node():
         max_score = -1
 
         if self.children == list():
-            # logging.debug("Returning None")
+            #logging.debug("Returning None")
             return None
 
         # Get the UTC score for all children
@@ -236,7 +233,7 @@ class Node():
                 max_child = child
                 max_score = child.UCT()
 
-        # logging.debug("Returning max child")
+        #logging.debug("Returning max child")
         return max_child
 
     def returnBestMove(self):
@@ -246,8 +243,11 @@ class Node():
         if self.children == list():
             return None
 
-        # Get the max simulations for all children
+        # Get the UTC score for all children
+        logging.debug("Inside return Best Move")
         for child in self.children:
+            logging.debug("child move: ")
+            logging.debug(child.move)
             score = child.totalSimulations
             if score > max_score:
                 max_child = child
@@ -268,6 +268,8 @@ class StudentAI():
         self.color = ''
         self.opponent = {1:2,2:1}
         self.color = 2
+        self.root_node = None
+
         
         '''if self.color == 1:
             self.turn = 'B'
@@ -286,6 +288,10 @@ class StudentAI():
             self.board.make_move(move, self.opponent[self.color])
         else:
             self.color = 1
+
+        if self.root_node == None: 
+            self.root_node = Node(None, None, self.board, self.opponent[self.color])
+
         #moves = self.board.get_all_possible_moves(self.color)
         #index = randint(0,len(moves)-1)
         #inner_index =  randint(0,len(moves[index])-1)
@@ -295,34 +301,48 @@ class StudentAI():
 
         #logging.debug(self.board.get_all_possible_moves(self.color))
         
-        numSimulations = 20
-        root_node = Node(None, move, self.board, self.color)
+        numSimulations = 100
+        logging.debug(move)
+        
+        
+        for child in self.root_node.children: 
+            logging.debug("child move: ")
+            logging.debug(child.move)
+            if child.move.seq == move.seq:
+                self.root_node = child 
+                logging.debug("Reassigning root node")
+                logging.debug(self.root_node.move)
+                logging.debug(self.root_node.board.get_all_possible_moves(self.color))
+                logging.debug([child.move for child in self.root_node.children])
+                break
+                    
+        
 
-        curr_node = root_node
+        curr_node = self.root_node
         curr_node.issimulated = 1
         
         #logging.debug(curr_node.color)
         #curr_node.simulate()
-        # logging.debug("299 Curr_node is None: " + str(curr_node == None))
+        #logging.debug("299 Curr_node is None: " + str(curr_node == None))
 
         while numSimulations > 0: 
-            # logging.debug(numSimulations)
+            #logging.debug(numSimulations)
             if curr_node.isexpanded == 0: 
                 #logging.debug("Inside if statement")
                 #logging.debug("curr_node color is: ")
                 #logging.debug(curr_node.color)
                 curr_node.expand()
                 #logging.debug("After expanding")
-                for child in curr_node.children: 
-                    #logging.debug("child color is: ")
-                    #logging.debug(child.color)
-                    child.simulate()
-                    #logging.debug("After simulate child")
-                    child.backpropogate() 
-                    #logging.debug("Child is expanded is " + str(child.isexpanded))
+                child_index = randint(0,len(curr_node.children)-1) 
+                #logging.debug("child color is: ")
+                #logging.debug(child.color)
+                curr_node.children[child_index].simulate()
+                #logging.debug("After simulate child")
+                curr_node.children[child_index].backpropogate() 
+                #logging.debug("Child is expanded is " + str(child.isexpanded))
                 numSimulations -= 1
-                curr_node = root_node
-                # logging.debug("318 Curr_node is None: " + str(curr_node == None))
+                curr_node = self.root_node
+                #logging.debug("318 Curr_node is None: " + str(curr_node == None))
             else:
                 #logging.debug("Inside else statement")
                 #logging.debug("curr_node isexpanded: " + str(curr_node.isexpanded))
@@ -336,16 +356,20 @@ class StudentAI():
                     #    logging.debug(curr_node.totalSimulations)
                     #    logging.debug(children)
                     
-                    # logging.debug(curr_node.children)
+                    #logging.debug(curr_node.children)
                     curr_node = curr_node.findLargestChild()
-                    # logging.debug("336 Curr_node is None: " + str(curr_node == None))
+                    #logging.debug("336 Curr_node is None: " + str(curr_node == None))
                     #logging.debug(curr_node == None)
 
                     #logging.debug(curr_node.UCT())
+                else:
+                    curr_node.simulate()
+                    curr_node.backpropogate()
+                    curr_node = self.root_node
 
 
             #logging.debug("end of while loop")
-        bestchild = root_node.returnBestMove()
+        bestchild = self.root_node.returnBestMove()
         #self.board.show_board()
         #logging.debug("Best move is: ")
         #logging.debug(bestchild.move)
@@ -357,5 +381,9 @@ class StudentAI():
         #logging.debug(bestchild.move)
         #logging.debug(self.board.get_all_possible_moves(self.color))
         #logging.debug("end")
+        logging.debug(bestchild.move)
+        logging.debug(self.root_node.board.get_all_possible_moves(self.color))
         self.board.make_move(bestchild.move,self.color)
+        self.root_node = bestchild
+        logging.debug(bestchild.board.get_all_possible_moves(self.opponent[self.color]))
         return bestchild.move
