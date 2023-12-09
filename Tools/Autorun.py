@@ -1,4 +1,4 @@
-import subprocess, os
+import subprocess, os, time
 
 # Define the file name you want to execute
 current_directory = os.getcwd()
@@ -23,10 +23,12 @@ for i in range(TOTAL_GAMES):
     print(i + 1, "of", TOTAL_GAMES, end = ": ")
 
     # Runs against "RandomAI.py"
+    start = time.time()
 
-    result = subprocess.run(['python3', os.path.join(current_directory, "AI_Runner.py"), "4", "5", "1", "l", os.path.join(new_directory, "src", "checkers-python", "main.py"), os.path.join(current_directory, "Sample_AIs", "Poor_AI", "main.py")], stdout=subprocess.PIPE)
+    result = subprocess.run(['python3', os.path.join(current_directory, "AI_Runner.py"), "4", "5", "1", "l", os.path.join(new_directory, "src", "checkers-python", "main.py"), os.path.join(current_directory, "Sample_AIs", "Average_AI", "main.py")], stdout=subprocess.PIPE)
 
-   
+    end_time = time.time()
+    print("Time took: ", (end_time - start)/60)
     # Get output from original AI code (the code prints out which player wins).
     console_output = str(result.stdout)
     # print(console_output)
