@@ -1,4 +1,5 @@
-import subprocess, os, sys, time
+import subprocess, os, time
+
 
 # Define the file name you want to execute
 current_directory = os.getcwd()
@@ -14,7 +15,8 @@ wins["Player_2_White"] = 0
 wins["Ties"] = 0
 
 # CHANGE THIS VALUE TO HOW MANY GAMES WILL BE RUN
-TOTAL_GAMES = 50
+
+TOTAL_GAMES = 20
 games_played = 0
 
 try:
